@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = ""
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
-hero_media = "hero-academic.png"
+hero_media = "/img/people_hero.jpg"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -24,15 +24,15 @@ hero_media = "hero-academic.png"
   # color = "navy"
 
   # Background gradient.
-  gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
+  #gradient_start = "#4bb4e3"
+  #gradient_end = "#2b94c3"
 
   # Background image.
-   image = "img/frontpage_hero.jpg"  # Name of image in `static/media/`.
-   image_darken = 0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-   image_position = "center"  # Options include `left`, `center` (default), or `right`.
-   image_parallax = false  # Use a fun parallax-like fixed background effect? true/false
+  image = "img/library_hero.jpg"  # Name of image in `static/media/`.
+  image_darken = 0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+  image_position = "center"  # Options include `left`, `center` (default), or `right`.
+  image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
   text_color_light = false
@@ -43,9 +43,8 @@ hero_media = "hero-academic.png"
 
 [advanced]
  # Custom CSS.
- css_style = ""
+ css_style = "height: 50vh;"
 
  # CSS class.
  css_class = ""
 +++
-<img src="/media/img/frontpage_logo.png" class="frontpage-banner"/>

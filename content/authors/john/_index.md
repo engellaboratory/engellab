@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Nora Engel, PhD
+title: John Doe, PhD
 
 # Username (this should match the folder name)
 authors:
-- admin
+- john
 
 # Is this the primary user of the site?
-superuser: true
+superuser: False
 
 # Role/position
-role: Associate Professor, Medical Genetics and Molecular Biochemistry
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -18,12 +18,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Head of the Engel Lab
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Sex differences
-- Gene regulation
-- Early development
+- Science
+- Research
+- Biology
 
 education:
   courses:
@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:noraengel@temple.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: ''  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -60,7 +60,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigator
+- Researchers
 ---
 
-I am the Principal Investigator of the Engel Lab at Temple University. My lab seeks to identify the origin of sex biases in gene expression and epigenetic features that are relevant to the striking differences in cardiovascular disease in humans. We combine in silico, in vitro and in vivo approaches in mouse models to achieve this goal.
+I am a placeholder person
