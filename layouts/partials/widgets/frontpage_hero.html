@@ -27,7 +27,7 @@
       </div>
     </div>
   </div>
-  <div class="col-8  hero-text">
+  <div class="col-8-md  hero-text">
     {{ with $st.Title }}<h1>{{ . | markdownify | emojify }}</h1>{{ end }}
     {{ with $st.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
     {{ $st.Content }}  </div>

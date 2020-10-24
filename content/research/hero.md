@@ -1,30 +1,23 @@
 +++
 # Hero widget.
-widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = ""
+title = "**Research**"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+
 
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
   #   Any HTML color name or Hex value is valid.
-
-  # Background color.
-  # color = "navy"
-
-  # Background gradient.
-  #gradient_start = "#4bb4e3"
-  #gradient_end = "#2b94c3"
 
   # Background image.
   image = "img/research_hero_genome.jpg"  # Name of image in `static/media/`.
@@ -34,15 +27,15 @@ title = ""
   image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
-  text_color_light = false
+  text_color_light = true
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
+  padding = ["15vh", "0", "20px", "0"]
 
 [advanced]
  # Custom CSS.
- css_style = "height: 40vh;"
+ css_style = "height: 40vh; margin: auto;"
 
  # CSS class.
  css_class = ""
