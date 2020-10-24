@@ -1,38 +1,12 @@
-.frontpage-banner {
-  margin: auto;
-  width: 800px;
-}
-
-.avatar-circle {
-  border-radius: 10%;
-}
-
-
 body{
   background-color: #eff0f1;
-}
-
-.pendulum-bg{
-  position:absolute;
-  width: 250px;
-  height: 210px;
-  background-color: rgba(0,0,0, 0.4);
-  top:52%;
-  left:  52%;
-  border-radius: 5%;
-  align-items: center;
-  border-top: 15px solid white;
-  transform: translate(-50%, -50%);
-  /* Add the blur effect */
-  filter: blur(8px);
-  -webkit-filter: blur(8px);
 }
 
 .pendulum{
   position:absolute;
   width: 250px;
-  height: 210px;
-  background-color: rgba(0,0,0, 0.4);
+  height: 200px;
+  background-color: black;
   top:50%;
   left:  50%;
   border-radius: 5%;
@@ -105,11 +79,11 @@ body{
 
 @keyframes firstcolor{
   0%    {fill: #d13b40;}
-  12.5% {fill: #6c90cc;}
-  37.49%{fill: #6c90cc;}
+  12.5% {fill: #34558b;}
+  37.49%{fill: #34558b;}
   37.5% {fill: #ffaf12;}
-  50%   {fill: #72b0a8;}
-  87.49%{fill: #72b0a8;}
+  50%   {fill: #4F847D;}
+  87.49%{fill: #4F847D;}
   87.50%{fill: #d13b40;}
   99.99%{fill: #d13b40;}
 
@@ -118,12 +92,12 @@ body{
 @keyframes middlecolor{
   0%    {background-color: #d13b40;}
   12.49%{background-color: #d13b40;}
-  12.5% {background-color: #6c90cc;}
-  37.49%{background-color: #6c90cc;}
+  12.5% {background-color: #34558b;}
+  37.49%{background-color: #34558b;}
   37.5% {background-color: #ffaf12;}
   62.49%{background-color: #ffaf12;}
-  62.50%{background-color: #72b0a8;}
-  87.49%{background-color: #72b0a8;}
+  62.50%{background-color: #4F847D;}
+  87.49%{background-color: #4F847D;}
   87.50%{background-color: #d13b40;}
   99.99%{background-color: #d13b40;}
 }
@@ -131,10 +105,10 @@ body{
 @keyframes lastcolor{
   0%    {fill: #d13b40;}
   12.49%{fill: #d13b40;}
-  12.5% {fill: #6c90cc;}
+  12.5% {fill: #34558b;}
   25%   {fill: #ffaf12;}
   62.49%{fill: #ffaf12;}
-  62.50%{fill: #72b0a8;}
+  62.50%{fill: #4F847D;}
   75%   {fill: #d13b40;}
   99.99%{fill: #d13b40;}
 }

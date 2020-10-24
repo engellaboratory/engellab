@@ -43,9 +43,11 @@ hero_media = "hero-academic.png"
 
 [advanced]
  # Custom CSS.
- css_style = ""
+ css_style = "height:400px;"
 
  # CSS class.
  css_class = ""
 +++
-<img src="/media/img/frontpage_logo.png" class="frontpage-banner"/>
+
+
+{{< frontpage_hero >}}

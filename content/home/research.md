@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "About our research"
-subtitle = ""
+title = "Our research"
+subtitle = "### Studying the genetic determinants of sex differences"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -50,10 +50,20 @@ subtitle = ""
  css_class = ""
 +++
 
+
+
+## Why
+
 Many human diseases exhibit sex biases in risk, presentation and outcomes. Sex differences are also evident in many complex human traits such as lifespan, circadian rhythms, immunological responses and cardiovascular structure and function. In this age of genomics, it has become clear that these differences have genetic and epigenetic foundations. Research in my lab aims to understand how sex-biased gene expression during embryonic development connects to later sexual dimorphisms in health and disease.
+
+## How
 
 Although sexual dimorphisms are traditionally attributed to hormonal influences, differences observed at early embryonic stages cannot be accounted for in this way. For example, X chromosome inactivation, a massive epigenetic event exclusive to females, affects the embryonic transcriptome and epigenome in a sex-specific manner. Thus, male and female genomes are epigenetically poised for their divergent pathways very soon after fertilization. In addition, the sex chromosome constitution influences organ biology and physiology independently of sex hormones at every stage across the lifespan. This means that every adult somatic cell exhibits sex biases at the biochemical and molecular levels.
 
+## What
+
 My lab seeks to identify the origin of sex biases in gene expression and epigenetic features that are relevant to the striking differences in cardiovascular disease in humans. We combine in silico, in vitro and in vivo approaches in mouse models to achieve this goal.
+
+
 
 {{< button url="/research" text="Learn more!">}}
