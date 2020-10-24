@@ -8,8 +8,12 @@
 }
 
 
-body{
-  background-color: #eff0f1;
+.hero-text{
+  padding-top: 100px;
+  padding-left: 80px;
+}
+.hero-text h1{
+  font-size: 3rem;
 }
 
 .pendulum-bg{
@@ -17,7 +21,7 @@ body{
   width: 250px;
   height: 210px;
   background-color: rgba(0,0,0, 0.4);
-  top:52%;
+  top:42%;
   left:  52%;
   border-radius: 5%;
   align-items: center;
@@ -33,7 +37,7 @@ body{
   width: 250px;
   height: 210px;
   background-color: rgba(0,0,0, 0.4);
-  top:50%;
+  top:40%;
   left:  50%;
   border-radius: 5%;
   align-items: center;

@@ -1,11 +1,12 @@
 +++
 # Hero widget.
-widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "frontpage_hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = ""
+title = "**Engel Laboratory**"
+subtitle = "_Elucidating the genetics of sex determination_"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 hero_media = "hero-academic.png"
@@ -48,6 +49,3 @@ hero_media = "hero-academic.png"
  # CSS class.
  css_class = ""
 +++
-
-
-{{< frontpage_hero >}}
