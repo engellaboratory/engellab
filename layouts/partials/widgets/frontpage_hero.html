@@ -1,8 +1,8 @@
 {{ $st := .page }}
 {{ $columns := $st.Params.design.columns | default "2" }}
 
-<div class="row" style="height: 400px;">
-  <div class="col-4">
+<div class="row frontpage-hero">
+  <div class="col-sm-4 pendulum-col">
     <div class="pendulum-bg">
     </div>
 
@@ -27,7 +27,8 @@
       </div>
     </div>
   </div>
-  <div class="col-8-md  hero-text">
+  <div class="col-sm-8
+    hero-text title-col">
     {{ with $st.Title }}<h1>{{ . | markdownify | emojify }}</h1>{{ end }}
     {{ with $st.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
     {{ $st.Content }}  </div>

@@ -44,7 +44,7 @@ hero_media = "hero-academic.png"
 
 [advanced]
  # Custom CSS.
- css_style = "height:400px;"
+ css_style = ""
 
  # CSS class.
  css_class = ""
