@@ -5,8 +5,13 @@
 
 [[main]]
   name = "Home"
-  url = "#about"
+  url = "#"
   weight = 10
+
+[[main]]
+  name = "Our values"
+  url = "#values"
+  weight = 15
 
 [[main]]
   name = "Research"
@@ -24,9 +29,19 @@
   weight = 40
 
 [[main]]
+  name = "Join us"
+  url = "/people#join-us"
+  weight = 50
+
+[[main]]
+  name = "Funding"
+  url = "/funding"
+  weight = 60
+
+[[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

@@ -23,23 +23,48 @@ width = "80vw"
   title = ""
   content = ""
   align = "center"  # Choose `center`, `left`, or `right`.
-
-  # Overlay a color or image (optional).
-  #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
-  overlay_img = "img/research_embryos.png"  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
+  overlay_img = "img/people/Rachael_Graduation.jpeg"  # Image path relative to `static/media/`.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = ""
   content = ""
   align = "center"  # Choose `center`, `left`, or `right`.
+  overlay_img = "img/people/GaitreeSCRI.jpeg"  # Image path relative to `static/media/`.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
 
-  # Overlay a color or image (optional).
-  #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
-  overlay_img = "img/research_hero_genome.jpg"  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
+[[item]]
+  title = ""
+  content = ""
+  align = "center"  # Choose `center`, `left`, or `right`.
+  overlay_img = "img/people/JosefAnkitaShelby.jpeg"  # Image path relative to `static/media/`.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
+
+[[item]]
+  title = ""
+  content = ""
+  align = "center"  # Choose `center`, `left`, or `right`.
+  overlay_img = "img/people/GaitreeDanMichaelJackie.jpeg"  # Image path relative to `static/media/`.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
+
+[[item]]
+  title = ""
+  content = ""
+  align = "center"  # Choose `center`, `left`, or `right`.
+  overlay_img = "img/people/DanPriya.jpeg"  # Image path relative to `static/media/`.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
+
+[[item]]
+  title = ""
+  content = ""
+  align = "center"  # Choose `center`, `left`, or `right`.
+  overlay_img = "img/people/BryantAidenRachaelGwenLina.jpeg"  # Image path relative to `static/media/`.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
+
+
+
+
+
 
 [design]
 

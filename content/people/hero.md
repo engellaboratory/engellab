@@ -43,7 +43,7 @@ hero_media = "/img/people_hero.jpg"
 
 [advanced]
  # Custom CSS.
- css_style = "height: 30vh;"
+ css_style = "height: 40vh;"
 
  # CSS class.
  css_class = ""

@@ -7,9 +7,8 @@
   border-radius: 10%;
 }
 
-
 .hero-text{
-  padding-top: 90px;
+  padding-top: 30px;
   padding-left: 80px;
 }
 
@@ -20,13 +19,15 @@
 .hero-title{
   font-size: 4rem;
 }
+
 .frontpage-hero{
   height:400px;
 }
+
 /* Extra small devices (phones, 600px and down) */
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 414px) {
   .frontpage-hero{
-    height:400px;
+    height:600px;
   }
 
   .title-col{
@@ -35,18 +36,51 @@
     }
 
   .pendulum-col{
-    margin-bottom: 100px;
+    margin-top:0px;
+    margin-bottom: 0px;
   }
 
   .hero-text{
     padding-top: 0px;
-    padding-left: 110px;
+    padding-left: 50px;
     margin-top:10px;
   }
 
   .hero-text h1{
     font-size: 2.8rem;
   }
+
+  .hero-text p{
+    font-size: 1.25rem;
+  }
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (min-width: 415px) {
+  .frontpage-hero{
+    height:450px;
+  }
+
+  .title-col{
+    order: -1;
+    height:100px;
+    }
+
+  .pendulum-col{
+    margin-top:0px;
+    margin-bottom: 0px;
+  }
+
+  .hero-text{
+    padding-top: 0px;
+    padding-left: 50px;
+    margin-top:10px;
+  }
+
+  .hero-text h1{
+    font-size: 2.8rem;
+  }
+
   .hero-text p{
     font-size: 1.25rem;
   }
@@ -55,10 +89,12 @@
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
   .hero-text{
-    padding-top: 70px;
+    padding-top: 20px;
     padding-left: 110px;
   }
-
+  .title-col{
+    order: 1;
+  }
   .hero-text h1{
     font-size: 2.8rem;
   }
@@ -70,7 +106,7 @@
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
   .hero-text{
-    padding-top: 90px;
+    padding-top: 40px;
     padding-left: 80px;
   }
 
@@ -80,8 +116,6 @@
   .hero-text p{
     font-size: 1.25rem;
   }
-
-
 }
 
 /* Large devices (laptops/desktops, 992px and up) */
@@ -89,14 +123,10 @@
   .hero-text h1{
     font-size: 3rem;
   }
-
-
 }
-
 
 .research-icon-right{
   margin: 2rem 0 1rem 3rem;
-
 }
 
 .research-icon-left{
