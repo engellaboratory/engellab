@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
 title = "**Engel Laboratory**"
-subtitle = "_Elucidating the genetics of sex determination_"
+subtitle = "_Developmental origins of sex differences_"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 hero_media = "hero-academic.png"

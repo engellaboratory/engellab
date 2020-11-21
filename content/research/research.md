@@ -51,16 +51,26 @@ subtitle = ""
 +++
 
 
+## Why
 
-Many human diseases exhibit sex biases in risk, presentation and outcomes. Sex differences are also evident in many complex human traits such as lifespan, circadian rhythms, immunological responses and cardiovascular structure and function. In this age of genomics, it has become clear that these differences have genetic and epigenetic foundations. Research in my lab aims to understand how sex-biased gene expression during embryonic development connects to later sexual dimorphisms in health and disease.
+Many human diseases exhibit sex biases in risk, presentation and outcomes [[1]](https://orwh.od.nih.gov/sex-gender). Sex differences are also evident in many complex human traits such as lifespan, circadian rhythms, immunological responses and cardiovascular structure and function. In this age of genomics, it has become clear that these differences have genetic and epigenetic foundations. Research in my lab aims to understand how sex-biased gene expression during embryonic development connects to later sexual dimorphisms in health and disease.
+
+## How
 
 Although sexual dimorphisms are traditionally attributed to hormonal influences, differences observed at early embryonic stages cannot be accounted for in this way. For example, X chromosome inactivation, a massive epigenetic event exclusive to females, affects the embryonic transcriptome and epigenome in a sex-specific manner. Thus, male and female genomes are epigenetically poised for their divergent pathways very soon after fertilization. In addition, the sex chromosome constitution influences organ biology and physiology independently of sex hormones at every stage across the lifespan. This means that every adult somatic cell exhibits sex biases at the biochemical and molecular levels.
 
-My lab seeks to identify the origin of sex biases in gene expression and epigenetic features that are relevant to the striking differences in cardiovascular disease in humans. We combine in silico, in vitro and in vivo approaches in mouse models to achieve this goal.
+## What
 
-## **Research Section 1**
+My lab seeks to identify the origin of sex biases in gene expression and epigenetic features that are relevant to the striking differences in cardiovascular disease in humans. We combine in silico, in vitro and in vivo approaches in mouse models to achieve this goal
 
-<img src="https://via.placeholder.com/300" align="right" class="research-icon-right">
+-Four core genotype mouse model: schematic in the images folder
+-link to Art Arnold website https://www.kaltura.com/index.php/extwidget/preview/partner_id/1467031/uiconf_id/26365392/entry_id/0_le4wbym6/embed/auto?&flashvars[streamerType]=auto.
+
+## **Four Core Genotypes**
+
+<figure>
+ <img src="/media/img/four_core.png" align="right" class="research-icon-right" style="height:300px;">
+</figure>
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id aliquet risus feugiat in ante metus dictum. Dolor magna eget est lorem ipsum dolor sit amet. Id cursus metus aliquam eleifend mi in nulla. Mi sit amet mauris commodo quis imperdiet massa tincidunt. Donec pretium vulputate sapien nec sagittis aliquam. Tellus molestie nunc non blandit massa enim nec. Semper risus in hendrerit gravida rutrum quisque. Molestie a iaculis at erat pellentesque adipiscing commodo elit. Eu sem integer vitae justo eget magna. Tempus urna et pharetra pharetra massa.

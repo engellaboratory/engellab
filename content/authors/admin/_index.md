@@ -63,4 +63,8 @@ user_groups:
 - Principal Investigator
 ---
 
-I am the Principal Investigator of the Engel Lab at Temple University. My lab seeks to identify the origin of sex biases in gene expression and epigenetic features that are relevant to the striking differences in cardiovascular disease in humans. We combine in silico, in vitro and in vivo approaches in mouse models to achieve this goal.
+Dr. Nora Engel is Associate Professor in the Lewis Katz School of Medicine at the Fels Institute for Cancer Research and Dept. of Medical Genetics & Molecular Biology at Temple University in Philadelphia, PA. Nora received her Ph.D. in Molecular Genetics from the University of Buenos Aires School of Biochemistry. Her graduate work focused on transcriptional regulation in cancer. She then pursued a postdoctoral fellowship in the laboratory of Dr. Marisa Bartolomei at the University of Pennsylvania, where she investigated mechanisms of genomic imprinting during embryogenesis in mouse models.
+
+As an independent investigator, Nora continued her studies on how imprinted regions are regulated and how the epigenetic and three-dimensional conformation is disturbed in imprinting disorders.
+
+Currently Nora’s major interest is in how sex differences are established in somatic tissues during embryogenesis, how the sex chromosomes contribute independently to those differences at the transcriptional and epigenetic levels and how these differences are reflected in sex disparities in disease risk and outcomes.

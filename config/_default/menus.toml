@@ -35,7 +35,7 @@
 
 [[main]]
   name = "Funding"
-  url = "/funding"
+  url = "/research#funding"
   weight = 60
 
 [[main]]

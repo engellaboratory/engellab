@@ -6,9 +6,9 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+weight = 50  # Order that this section will appear.
 
-title = "Our values"
+title = "Funding"
 subtitle = ""
 
 [design]
@@ -25,8 +25,8 @@ subtitle = ""
   # color = "navy"
 
   # Background gradient.
-  #gradient_start = "DarkGreen"
-  #gradient_end = "ForestGreen"
+  gradient_start = "white"
+  gradient_end = "white"
 
   # Background image.
   # image = "image.jpg"  # Name of image in `static/media/`.
@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-> “While timorous knowledge stands considering, audacious ignorance hath done the deed.”  
-  Samuel Daniel (1562-1619)
 
-We aim to do quality science in an environment that values curious, irreverent minds. We believe that the most creative thing we can do is to ask new questions. These drive the imagination and passion that are the raw material for designing elegant, informative experiments. These values generate an environment that unlocks each individual’s potential, while fostering teamwork and a culture of continuous learning.
+We are grateful to the following federal agencies and private foundations for their support:
+Logos for NSF, WW Smith Foundation, NCI
+If you are interested in funding research that will help tailor basic and clinical studies to each gender, you can make a tax deductible donation to Temple University School of Medicine for the Laboratory of Nora Engel. Funding for science at the federal level is waning and research costs are rising. Your gift will help train young scientists and advance research in sex differences in health and disease.

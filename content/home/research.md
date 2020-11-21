@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Our values"
-subtitle = ""
+title = "Our research"
+subtitle = "### Studying the genetic determinants of sex differences"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -50,7 +50,8 @@ subtitle = ""
  css_class = ""
 +++
 
-> “While timorous knowledge stands considering, audacious ignorance hath done the deed.”  
-  Samuel Daniel (1562-1619)
+How do males and females become different? How early are detectable sex differences established? How does the genome direct the male and female trajectories?
+We study the genetic, epigenetic and transcriptomic components that drive sexual dimorphism in mammals from early embryonic development and across the lifespan.
 
-We aim to do quality science in an environment that values curious, irreverent minds. We believe that the most creative thing we can do is to ask new questions. These drive the imagination and passion that are the raw material for designing elegant, informative experiments. These values generate an environment that unlocks each individual’s potential, while fostering teamwork and a culture of continuous learning.
+
+{{< button url="/research" text="Learn more about our research">}}
