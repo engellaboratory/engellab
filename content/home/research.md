@@ -50,7 +50,8 @@ subtitle = "### Studying the genetic determinants of sex differences"
  css_class = ""
 +++
 
-How do males and females become different? How early are detectable sex differences established? How does the genome direct the male and female trajectories?
+How do males and females become different? How early are detectable sex differences established? How does the genome direct the male and female trajectories?  
+  
 We study the genetic, epigenetic and transcriptomic components that drive sexual dimorphism in mammals from early embryonic development and across the lifespan.
 
 

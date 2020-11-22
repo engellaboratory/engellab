@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Join us"
-subtitle = ""
+title = "Opportunities"
+subtitle = "_Join our research effort at Temple University_"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -50,12 +50,9 @@ subtitle = ""
  css_class = "justify-content-center"
 +++
 
-We have a first or Second Year Postdoctoral Position available to investigate epigenetic and gene expression differences between male and female mice across embryonic development and beyond.  The Fels Institute is a prestigious research institute affiliated with the Temple University School of Medicine, with a strong focus in epigenetics. Temple University is in Philadelphia, a vibrant, diverse and safe city with a strong research community and multiple opportunities for cross-institutional collaboration.
+{{< figure src="/media/img/fels_institute.png" width="400px" caption="**The Engel lab is well situated in the Fels Institute at Temple University in the city of Philadelphia.**">}}
 
-Applicants must have a Ph.D., a background in epigenetics, and proficiency in a range of cell/developmental biology, molecular, immunological and genomic techniques, including experience in tissue culture, flow cytometry, DNA methylation analysis, microarrays, chromatin immunoprecipitation and DNA analysis software. Basic bioinformatic skills are also required. Experience with mice is preferred. Excellent oral and written English language skills are essential.
+We are seeking postdocs who are excited about epigenetics, transcriptional regulation, and the dynamics of molecular sex differences throughout embryonic development. Some computational experience is required.  Please apply by sending a CV, cover letter, and information for three references. [Click here](/post/postdoc-listing/) to learn more
 
-Candidate should be highly motivated, creative, with strong work ethic and ability to work independently as well as in collaborative research efforts. Applicants must have at least 2 first author publications from his/her PhD training. The position will be filled for one year with possible second year renewal.
-
-Please submit application electronically with curriculum vitae, statement of research interests, and the names/phone numbers/emails of three people who can provide letters of reference to: Dr. Nora Engel, Fels Institute of Cancer Research and Molecular Biology, Temple School of Medicine, Philadelphia, PA.
-
-{{< button url="mailto:noraengel@temple.edu" text="Email Nora to Apply" >}}
+Note to prospective students:
+Students interested in genetics, development and sex differences in health and disease and who are interested in combining computational and experimental approaches are strongly encouraged to rotate in the lab.  All graduate students must apply through [Temple University's PhD program](https://medicine.temple.edu/education/biomedical-sciences-graduate-program)

@@ -50,7 +50,6 @@ subtitle = ""
  css_class = ""
 +++
 
-> “While timorous knowledge stands considering, audacious ignorance hath done the deed.”  
-  Samuel Daniel (1562-1619)
+ _“While timorous knowledge stands considering, audacious ignorance hath done the deed.”_   \-  Samuel Daniel (1562-1619)
 
 We aim to do quality science in an environment that values curious, irreverent minds. We believe that the most creative thing we can do is to ask new questions. These drive the imagination and passion that are the raw material for designing elegant, informative experiments. These values generate an environment that unlocks each individual’s potential, while fostering teamwork and a culture of continuous learning.

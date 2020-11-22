@@ -50,32 +50,38 @@ subtitle = ""
  css_class = ""
 +++
 
+## Dynamics of sexual dimorphism across the lifespan  
 
-## Why
-
-Many human diseases exhibit sex biases in risk, presentation and outcomes [[1]](https://orwh.od.nih.gov/sex-gender). Sex differences are also evident in many complex human traits such as lifespan, circadian rhythms, immunological responses and cardiovascular structure and function. In this age of genomics, it has become clear that these differences have genetic and epigenetic foundations. Research in my lab aims to understand how sex-biased gene expression during embryonic development connects to later sexual dimorphisms in health and disease.
-
-## How
-
-Although sexual dimorphisms are traditionally attributed to hormonal influences, differences observed at early embryonic stages cannot be accounted for in this way. For example, X chromosome inactivation, a massive epigenetic event exclusive to females, affects the embryonic transcriptome and epigenome in a sex-specific manner. Thus, male and female genomes are epigenetically poised for their divergent pathways very soon after fertilization. In addition, the sex chromosome constitution influences organ biology and physiology independently of sex hormones at every stage across the lifespan. This means that every adult somatic cell exhibits sex biases at the biochemical and molecular levels.
-
-## What
-
-My lab seeks to identify the origin of sex biases in gene expression and epigenetic features that are relevant to the striking differences in cardiovascular disease in humans. We combine in silico, in vitro and in vivo approaches in mouse models to achieve this goal
-
--Four core genotype mouse model: schematic in the images folder
--link to Art Arnold website https://www.kaltura.com/index.php/extwidget/preview/partner_id/1467031/uiconf_id/26365392/entry_id/0_le4wbym6/embed/auto?&flashvars[streamerType]=auto.
-
-## **Four Core Genotypes**
+### Why?
 
 <figure>
- <img src="/media/img/four_core.png" align="right" class="research-icon-right" style="height:300px;">
+ <img src="/media/img/one_genome_two_sexes.png" align="right" class="research-icon-right" style="height:300px;">
 </figure>
 
+Many human diseases show [sex biases in risk, onset and incidence](https://orwh.od.nih.gov/sex-gender). Examples include autoimmune disorders, cancer susceptibility, infectious disease incidence, and cardiovascular disease presentation and risk. In some cases, sex is a much stronger predictor of risk of or protection from disease than DNA variants. In addition, treatment responses and side effects to drugs for many disorders differ between males and females.  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id aliquet risus feugiat in ante metus dictum. Dolor magna eget est lorem ipsum dolor sit amet. Id cursus metus aliquam eleifend mi in nulla. Mi sit amet mauris commodo quis imperdiet massa tincidunt. Donec pretium vulputate sapien nec sagittis aliquam. Tellus molestie nunc non blandit massa enim nec. Semper risus in hendrerit gravida rutrum quisque. Molestie a iaculis at erat pellentesque adipiscing commodo elit. Eu sem integer vitae justo eget magna. Tempus urna et pharetra pharetra massa.
+Sex differences are also evident in many complex human traits such as lifespan and aging, brain function, circadian rhythms, cardiovascular structure and function and immunological responses. The variety of systems exhibiting sexual dimorphisms implies that exploring these differences will afford valuable insights into disease risk and etiology and will lead to more sex-appropriate treatment options.  
 
-Volutpat maecenas volutpat blandit aliquam etiam erat velit scelerisque in. Mi in nulla posuere sollicitudin aliquam ultrices sagittis. Pellentesque id nibh tortor id aliquet. Enim sit amet venenatis urna cursus eget nunc scelerisque viverra. Tristique risus nec feugiat in fermentum. At erat pellentesque adipiscing commodo elit at imperdiet dui accumsan. Nullam ac tortor vitae purus faucibus ornare suspendisse sed. Tristique senectus et netus et. Pulvinar mattis nunc sed blandit libero volutpat sed cras. Ipsum consequat nisl vel pretium lectus. Condimentum vitae sapien pellentesque habitant morbi tristique senectus et. Consectetur adipiscing elit duis tristique. Aliquam faucibus purus in massa tempor nec feugiat nisl pretium. Eu feugiat pretium nibh ipsum consequat. Sagittis orci a scelerisque purus semper eget duis at tellus. Adipiscing tristique risus nec feugiat.
+Our lab studies the impact of the sex chromosomes on the transcriptional and epigenetic differences between males and females in non-reproductive organs beginning from soon after fertilization, during embryonic development and in life after birth. Our goal is to fully understand the ways in which sex chromosome-linked genes contribute to sex differences across the lifespan, how their effects interact with hormonal effects, and how they affect the widespread sex biases in health and disease.
+
+### How?  
+We integrate state-of-the-art genomic and epigenomic methods with developmental biology to study how sexual dimorphism is established at the molecular level. In particular, we study the dynamics of sex differences across development, using mouse embryonic stem cells and mouse models to distinguish the contribution of sex chromosomes and sex hormones to sex-specific phenotypes.   
+
+We are exploiting the Four Core Genotypes mouse model, developed by Dr. Arthur Arnold, to study the independent effects of sex chromosomes and sex hormones on embryonic development. In this model, mice are produced that differ in their sex chromosome complement, _while keeping sex steroid levels constant_. Mice that result from the breeding scheme are XX and XY gonadal females and XX and XY gonadal males, thus uncoupling the sex chromosome composition from the hormonal environment.  
+
+We study embryogenesis beginning at stages before the gonads are developed, in which all sex differences can only be attributed to the sex chromosomes, and during subsequent development, when both sex hormones and sex chromosomes contribute to sexual dimorphism.  
+
+[**Click here**](https://www.kaltura.com/index.php/extwidget/preview/partner_id/1467031/uiconf_id/26365392/entry_id/0_le4wbym6/embed/auto?&flashvars%5bstreamerType%5d=auto) to watch a video about the Four Core Genotypes Model
+
+## **Epigenetics of Imprinting Disorders**
+
+Genomic imprinting is the mechanism by which a subset of genes is expressed exclusively from one allele. The allele that is repressed depends on whether it was inherited maternally or paternally and is epigenetically marked by DNA methylation.
+Epigenetic dysregulation is a common occurrence in cancer development and can significantly affect the function of cis-regulatory elements, such as enhancers, insulators, and promoters. While DNA methylation has been extensively studied in the context of cancer, its interactions with other epigenetic features, such as three-dimensional (3D) chromatin conformation, remain an open question in the context of genomic imprinting.  
+
+Beckwith-Wiedemann Syndrome (BWS) (OMIM 1306050), the most common fetal overgrowth disorder, increases the risk of pediatric cancers by ~25%. Patients are prone to a range of malignancies, which suggests that the alterations underlying the disease are basic drivers of carcinogenesis. More than 50% of affected individuals exhibit loss of DNA methylation (LOM) at the KCNQ1/CDKN1C imprinting control region (ICR), leading to aberrant silencing of CDKN1C, a gene encoding a cell cycle inhibitor. However, we still don’t understand how loss of methylation affects other chromatin features in the domain and how it contributes to tumor development.  
+
+We are elucidating how epigenetic features interact to establish the appropriate gene expression patterns in this complex imprinted domain. We also study how DNA methylation, chromatin modifications and chromosome conformation are disrupted in Beckwith-Wiedeman Syndrome, and how to epigenetically engineer the altered region to re-establish normal expression patterns to counteract the carcinogenic phenotype.  
+
 
 ## **Research Section 2**
 
