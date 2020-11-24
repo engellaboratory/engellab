@@ -25,6 +25,16 @@ Hugo is a free open-source website builder that takes a set folder and files and
 1. Open a web browser and go to https://gohugo.io/getting-started/quick-start/
 2. Follow the installation instructions
 
+#### Go lang
+
+The newest versions of hugo require the Go language. To install, follow the instructions here: https://golang.org/doc/install
+
+#### Git
+
+If you don't have `git` installed, you need to install it from https://git-scm.com/download/win
+
+Follow the instructions in the installer. Default options should all be fine.
+
 #### Atom
 
 Atom is a text editor with a graphical user interface built by GitHub. It can be used to edit the text files used to build your website. Atom is not a command line application, so you can find it in your Applications folder if it's installed.
