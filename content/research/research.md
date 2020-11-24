@@ -22,11 +22,11 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+   color = "white"
 
   # Background gradient.
-  gradient_start = "white"
-  gradient_end = "white"
+  # gradient_start = "white"
+  # gradient_end = "white"
 
   # Background image.
   # image = "image.jpg"  # Name of image in `static/media/`.
@@ -81,23 +81,3 @@ Epigenetic dysregulation is a common occurrence in cancer development and can si
 Beckwith-Wiedemann Syndrome (BWS) (OMIM 1306050), the most common fetal overgrowth disorder, increases the risk of pediatric cancers by ~25%. Patients are prone to a range of malignancies, which suggests that the alterations underlying the disease are basic drivers of carcinogenesis. More than 50% of affected individuals exhibit loss of DNA methylation (LOM) at the KCNQ1/CDKN1C imprinting control region (ICR), leading to aberrant silencing of CDKN1C, a gene encoding a cell cycle inhibitor. However, we still don’t understand how loss of methylation affects other chromatin features in the domain and how it contributes to tumor development.  
 
 We are elucidating how epigenetic features interact to establish the appropriate gene expression patterns in this complex imprinted domain. We also study how DNA methylation, chromatin modifications and chromosome conformation are disrupted in Beckwith-Wiedeman Syndrome, and how to epigenetically engineer the altered region to re-establish normal expression patterns to counteract the carcinogenic phenotype.  
-
-
-## **Research Section 2**
-
-<img src="https://via.placeholder.com/300" align="left" class="research-icon-left">
-
-
-Phasellus egestas tellus rutrum tellus pellentesque eu tincidunt tortor. A cras semper auctor neque vitae tempus quam. Congue eu consequat ac felis donec et. Dui sapien eget mi proin sed libero enim sed. Adipiscing enim eu turpis egestas pretium. Gravida in fermentum et sollicitudin ac. Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Volutpat odio facilisis mauris sit amet massa. Ultricies integer quis auctor elit sed vulputate mi sit amet. Nulla malesuada pellentesque elit eget gravida cum sociis natoque penatibus. Velit sed ullamcorper morbi tincidunt ornare. Mauris in aliquam sem fringilla ut morbi tincidunt augue interdum. Fringilla ut morbi tincidunt augue interdum velit.
-
-Lorem ipsum dolor sit amet consectetur adipiscing. Scelerisque eleifend donec pretium vulputate. Ullamcorper a lacus vestibulum sed arcu non odio. At auctor urna nunc id cursus metus aliquam eleifend. Venenatis urna cursus eget nunc scelerisque. Sed odio morbi quis commodo odio aenean. Nisl rhoncus mattis rhoncus urna neque viverra justo. Luctus accumsan tortor posuere ac ut consequat semper viverra nam. Malesuada bibendum arcu vitae elementum curabitur. Donec adipiscing tristique risus nec. Aliquam eleifend mi in nulla posuere sollicitudin. Accumsan in nisl nisi scelerisque. Mauris cursus mattis molestie a iaculis. Accumsan in nisl nisi scelerisque eu ultrices vitae auctor eu.
-
-Non quam lacus suspendisse faucibus. Mi in nulla posuere sollicitudin aliquam ultrices. Odio ut sem nulla pharetra diam. Tortor posuere ac ut consequat semper viverra. Quam nulla porttitor massa id neque aliquam vestibulum morbi blandit. Mauris augue neque gravida in. Nunc non blandit massa enim. Gravida quis blandit turpis cursus in hac. Auctor urna nunc id cursus. Nibh ipsum consequat nisl vel pretium lectus quam id. Non tellus orci ac auctor augue mauris augue. Arcu risus quis varius quam quisque id. Imperdiet dui accumsan sit amet nulla facilisi morbi. Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque.
-
-## **Research Section 3**
-
-<img src="https://via.placeholder.com/300" align="right" class="research-icon-right">
-
-Quam viverra orci sagittis eu volutpat odio facilisis mauris. Bibendum at varius vel pharetra vel turpis nunc. Enim nulla aliquet porttitor lacus. Mauris nunc congue nisi vitae. Lacus luctus accumsan tortor posuere ac. Convallis posuere morbi leo urna molestie at elementum eu. Quam elementum pulvinar etiam non. Pellentesque id nibh tortor id aliquet lectus. Pellentesque sit amet porttitor eget dolor morbi non arcu risus. Cursus turpis massa tincidunt dui ut ornare lectus sit. Cursus mattis molestie a iaculis at erat pellentesque adipiscing commodo. Turpis egestas pretium aenean pharetra. Vitae congue eu consequat ac felis donec et.
-
-Odio morbi quis commodo odio. Aliquet risus feugiat in ante metus dictum at tempor commodo. Commodo nulla facilisi nullam vehicula ipsum. At consectetur lorem donec massa sapien faucibus. Nisi lacus sed viverra tellus in hac. Arcu dictum varius duis at consectetur lorem donec massa sapien. Lacus vestibulum sed arcu non odio. A pellentesque sit amet porttitor eget dolor morbi. Faucibus scelerisque eleifend donec pretium vulputate sapien. Lorem mollis aliquam ut porttitor leo. Amet cursus sit amet dictum sit amet. Turpis egestas sed tempus urna. Fermentum dui faucibus in ornare. Vestibulum morbi blandit cursus risus at. Lectus mauris ultrices eros in cursus turpis massa. Adipiscing elit pellentesque habitant morbi tristique senectus et netus. Aliquam nulla facilisi cras fermentum odio eu. Non tellus orci ac auctor augue. Quis commodo odio aenean sed adipiscing diam donec adipiscing tristique. Donec pretium vulputate sapien nec sagittis.
