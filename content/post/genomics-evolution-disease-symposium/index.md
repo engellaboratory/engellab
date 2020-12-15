@@ -7,7 +7,7 @@ authors:
 tags:
 - News
 categories:
-- Grants
+- Outreach
 date: "2017-03-01T00:00:00Z"
 lastmod: "2017-03-01T00:00:00Z"
 featured: false
@@ -19,7 +19,7 @@ draft: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 2
-  caption: 'Image credit: [Very Well Health](https://www.verywellhealth.com/beckwith-wiedemann-syndrome-overview-4178305)'
+  caption: 'Image credit: [Nora Engel]'
   focal_point: "Smart"
   preview_only: false
 

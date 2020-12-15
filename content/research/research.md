@@ -55,7 +55,7 @@ subtitle = ""
 ### Why?
 
 <figure>
- <img src="/media/img/one_genome_two_sexes.png" align="right" class="research-icon-right" style="height:300px;">
+ <img src="/media/img/one_genome_two_sexes.png" align="right" class="research-icon-right" style="height:350px;">
 </figure>
 
 Many human diseases show [sex biases in risk, onset and incidence](https://orwh.od.nih.gov/sex-gender). Examples include autoimmune disorders, cancer susceptibility, infectious disease incidence, and cardiovascular disease presentation and risk. In some cases, sex is a much stronger predictor of risk of or protection from disease than DNA variants. In addition, treatment responses and side effects to drugs for many disorders differ between males and females.  
@@ -65,7 +65,11 @@ Sex differences are also evident in many complex human traits such as lifespan a
 Our lab studies the impact of the sex chromosomes on the transcriptional and epigenetic differences between males and females in non-reproductive organs beginning from soon after fertilization, during embryonic development and in life after birth. Our goal is to fully understand the ways in which sex chromosome-linked genes contribute to sex differences across the lifespan, how their effects interact with hormonal effects, and how they affect the widespread sex biases in health and disease.
 
 ### How?  
+
 We integrate state-of-the-art genomic and epigenomic methods with developmental biology to study how sexual dimorphism is established at the molecular level. In particular, we study the dynamics of sex differences across development, using mouse embryonic stem cells and mouse models to distinguish the contribution of sex chromosomes and sex hormones to sex-specific phenotypes.   
+
+<figure> <img src="/media/img/four_core.png" align="right" class="research-icon-right" style="height:380px;">
+</figure>
 
 We are exploiting the Four Core Genotypes mouse model, developed by Dr. Arthur Arnold, to study the independent effects of sex chromosomes and sex hormones on embryonic development. In this model, mice are produced that differ in their sex chromosome complement, _while keeping sex steroid levels constant_. Mice that result from the breeding scheme are XX and XY gonadal females and XX and XY gonadal males, thus uncoupling the sex chromosome composition from the hormonal environment.  
 
