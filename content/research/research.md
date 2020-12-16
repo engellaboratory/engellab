@@ -77,7 +77,8 @@ We study embryogenesis beginning at stages before the gonads are developed, in w
 
 [**Click here**](https://www.kaltura.com/index.php/extwidget/preview/partner_id/1467031/uiconf_id/26365392/entry_id/0_le4wbym6/embed/auto?&flashvars%5bstreamerType%5d=auto) to watch a video about the Four Core Genotypes Model
 
-## **Epigenetics of Imprinting Disorders**
+
+## Epigenetics of Imprinting Disorders
 
 Genomic imprinting is the mechanism by which a subset of genes is expressed exclusively from one allele. The allele that is repressed depends on whether it was inherited maternally or paternally and is epigenetically marked by DNA methylation.
 Epigenetic dysregulation is a common occurrence in cancer development and can significantly affect the function of cis-regulatory elements, such as enhancers, insulators, and promoters. While DNA methylation has been extensively studied in the context of cancer, its interactions with other epigenetic features, such as three-dimensional (3D) chromatin conformation, remain an open question in the context of genomic imprinting.  

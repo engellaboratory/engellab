@@ -23,8 +23,15 @@ width = "70vw"
   title = ""
   content = ""
   align = "center"  # Choose `center`, `left`, or `right`.
-  overlay_img = "img/people/Rachael_Graduation.jpeg"  # Image path relative to `static/media/`.
+  overlay_img = "img/people/DanPriya.jpeg"  # Image path relative to `static/media/`.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
+
+  [[item]]
+    title = ""
+    content = ""
+    align = "center"  # Choose `center`, `left`, or `right`.
+    overlay_img = "img/people/GaitreeDanMichaelJackie.jpeg"  # Image path relative to `static/media/`.
+    overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = ""
@@ -40,19 +47,6 @@ width = "70vw"
   overlay_img = "img/people/JosefAnkitaShelby.jpeg"  # Image path relative to `static/media/`.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
-[[item]]
-  title = ""
-  content = ""
-  align = "center"  # Choose `center`, `left`, or `right`.
-  overlay_img = "img/people/GaitreeDanMichaelJackie.jpeg"  # Image path relative to `static/media/`.
-  overlay_filter = 0  # Darken the image. Value in range 0-1.
-
-[[item]]
-  title = ""
-  content = ""
-  align = "center"  # Choose `center`, `left`, or `right`.
-  overlay_img = "img/people/DanPriya.jpeg"  # Image path relative to `static/media/`.
-  overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = ""
@@ -62,7 +56,12 @@ width = "70vw"
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 
-
+  [[item]]
+    title = ""
+    content = ""
+    align = "center"  # Choose `center`, `left`, or `right`.
+    overlay_img = "img/people/Rachael_Graduation.jpeg"  # Image path relative to `static/media/`.
+    overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 
 
