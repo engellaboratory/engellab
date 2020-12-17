@@ -55,3 +55,5 @@ user_groups:
 ---
 
 The Kulathinal lab examines the genetic mechanisms that underlie rapidly evolving systems and drive functional divergence. Our lab is primarily interested in rapidly evolving genes, traits, and genetic networks, and the role they play in phenotypic and species divergence. To address this grand challenge, we use a combination of experimental, theoretical, and computational approaches that allow us to explore both adaptive and stochastic landscape across the genome and to tease apart the genetic mechanisms underlying functional divergence. The availability of novel datasets, particularly from new sequencing technologies and big science initiatives, provides us with unprecedented power to partition rapidly evolving systems. Applying this evolutionary framework of rapid evolution has far-reaching implications across diverse fields including conservation biology, medicine, and the social sciences.
+
+[**Click here**](https://www.cst.temple.edu/~robie/bioinform/index.html) to link to Rob's website

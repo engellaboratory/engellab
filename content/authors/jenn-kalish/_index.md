@@ -54,4 +54,6 @@ user_groups:
 - Collaborators
 ---
 
-The Kalish Lab is focused on understanding the molecular and epigenetic mechanisms that contribute to the development, epigenetic mosaicism and increased predisposition to cancer that is characteristic of pediatric patients with rare imprinted gene disorders including Beckwith-Wiedemann syndrome (BWS) and Russell-Silver syndrome (RSS). 
+The Kalish Lab is focused on understanding the molecular and epigenetic mechanisms that contribute to the development, epigenetic mosaicism and increased predisposition to cancer that is characteristic of pediatric patients with rare imprinted gene disorders including Beckwith-Wiedemann syndrome (BWS) and Russell-Silver syndrome (RSS).
+
+[**Click here**](https://www.research.chop.edu/kalish-laboratory) to link to Jenn's website

@@ -19,7 +19,7 @@ draft: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 1
-  caption: 'Figure 2. Schematic of our hypothesis'
+  caption: 'Schematic of our hypothesis'
   focal_point: "Smart"
   preview_only: false
 

@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = "Our research"
-subtitle = "### Studying the genetic determinants of sex differences"
+subtitle = "### Studying the genetic and epigenetic determinants of sex differences"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -51,7 +51,7 @@ subtitle = "### Studying the genetic determinants of sex differences"
 +++
 
 How do males and females become different? How early are detectable sex differences established? How does the genome direct the male and female trajectories?  
-  
+
 We study the genetic, epigenetic and transcriptomic components that drive sexual dimorphism in mammals from early embryonic development and across the lifespan.
 
 

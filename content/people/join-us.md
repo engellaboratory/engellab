@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Opportunities"
-subtitle = "_Join our research effort at Temple University_"
+subtitle = "_Join our research effort at Temple University School of Medicine_"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -50,7 +50,7 @@ subtitle = "_Join our research effort at Temple University_"
  css_class = "justify-content-center"
 +++
 
-{{< figure src="/media/img/fels_institute.png" width="400px" caption="**The Engel lab is well situated in the Fels Institute at Temple University in the city of Philadelphia.**">}}
+{{< figure src="/media/img/fels_institute.png" width="650px" caption="**The Engel lab is situated in the Fels Institute for Cancer Research at Temple University in the city of Philadelphia.**">}}
 
 We are seeking postdocs who are excited about epigenetics, transcriptional regulation, and the dynamics of molecular sex differences throughout embryonic development. Some computational experience is required.  Please apply by sending a CV, cover letter, and information for three references. [Click here](/post/postdoc-listing/) to learn more
 
