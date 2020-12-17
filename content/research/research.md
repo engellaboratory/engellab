@@ -55,7 +55,7 @@ subtitle = ""
 ### Why?
 
 <figure>
- <img src="/media/img/one_genome_two_sexes.png" align="right" class="research-icon-right" style="height:350px;">
+ <img src="/media/img/one_genome_two_sexes.png" class="research-icon-right" style="height:350px;">
 </figure>
 
 Many human diseases show [sex biases in risk, onset and incidence](https://orwh.od.nih.gov/sex-gender). Examples include autoimmune disorders, cancer susceptibility, infectious disease incidence, and cardiovascular disease presentation and risk. In some cases, sex is a much stronger predictor of risk of or protection from disease than DNA variants. In addition, treatment responses and side effects to drugs for many disorders differ between males and females.  
@@ -68,7 +68,7 @@ Our lab studies the impact of the sex chromosomes on the transcriptional and epi
 
 We integrate state-of-the-art genomic and epigenomic methods with developmental biology to study how sexual dimorphism is established at the molecular level. In particular, we study the dynamics of sex differences across development, using mouse embryonic stem cells and mouse models to distinguish the contribution of sex chromosomes and sex hormones to sex-specific phenotypes.   
 
-<figure> <img src="/media/img/four_core.png" align="right" class="research-icon-right" style="height:380px;">
+<figure> <img src="/media/img/four_core.png" class="research-icon-right" style="height:380px;">
 </figure>
 
 We are exploiting the Four Core Genotypes mouse model, developed by Dr. Arthur Arnold, to study the independent effects of sex chromosomes and sex hormones on embryonic development. In this model, mice are produced that differ in their sex chromosome complement, _while keeping sex steroid levels constant_. Mice that result from the breeding scheme are XX and XY gonadal females and XX and XY gonadal males, thus uncoupling the sex chromosome composition from the hormonal environment.  
@@ -79,7 +79,7 @@ We study embryogenesis beginning at stages before the gonads are developed, in w
 
 ## Epigenetics of Imprinting Disorders
 
-Genomic imprinting is the mechanism by which a subset of genes is expressed exclusively from one of the two parental alleles. The allele that is repressed depends on whether it was inherited from the egg or from the sperm and is epigenetically marked by DNA methylation. 
+Genomic imprinting is the mechanism by which a subset of genes is expressed exclusively from one of the two parental alleles. The allele that is repressed depends on whether it was inherited from the egg or from the sperm and is epigenetically marked by DNA methylation.
 Epigenetic dysregulation is a common occurrence in cancer development and can significantly affect the function of cis-regulatory elements, such as enhancers, insulators, and promoters. While DNA methylation has been extensively studied in the context of cancer, its interactions with other epigenetic features, such as three-dimensional (3D) chromatin conformation, remain an open question in the context of genomic imprinting.  
 
 Beckwith-Wiedemann Syndrome (BWS) (OMIM 1306050), the most common fetal overgrowth disorder, increases the risk of pediatric cancers by ~25%. Patients are prone to a range of malignancies, which suggests that the alterations underlying the disease are basic drivers of carcinogenesis. More than 50% of affected individuals exhibit loss of DNA methylation (LOM) at the KCNQ1/CDKN1C imprinting control region (ICR), leading to aberrant silencing of CDKN1C, a gene encoding a cell cycle inhibitor. However, we still don’t understand how loss of methylation affects other chromatin features in the domain and how it contributes to tumor development.  

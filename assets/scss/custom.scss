@@ -24,7 +24,18 @@
   height:400px;
 }
 
-/* Extra small devices (phones, 600px and down) */
+.research-icon-right{
+  margin: 2rem 0 1rem 3rem;
+  float:right;
+}
+
+.research-icon-left{
+  margin: 2rem 2rem 1rem 0;
+  float: left;
+}
+
+
+/* Extra small devices (phones, 414px and down) */
 @media only screen and (max-width: 414px) {
   .frontpage-hero{
     height:600px;
@@ -57,6 +68,11 @@
 
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (min-width: 415px) {
+  .research-icon-right{
+    margin: 0;
+    float: none;
+  }
+
   .frontpage-hero{
     height:450px;
   }
@@ -101,6 +117,10 @@
   .hero-text p{
     font-size: 1.25rem;
   }
+  .research-icon-right{
+    margin: 0;
+   float: right;
+  }
 }
 
 /* Medium devices (landscape tablets, 768px and up) */
@@ -125,13 +145,6 @@
   }
 }
 
-.research-icon-right{
-  margin: 2rem 0 1rem 3rem;
-}
-
-.research-icon-left{
-  margin: 2rem 2rem 1rem 0
-}
 
 .pendulum-bg{
   position:absolute;
