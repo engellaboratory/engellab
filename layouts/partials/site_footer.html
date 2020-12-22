@@ -12,7 +12,7 @@
   {{ end }}
 
   <p class="powered-by">
-    {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}}{{ end }}
+    {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}}{{ end }} | Designed by <a href="https://experimentaldesign.io" target="_blank">Daniel Burkhardt</a> in New Haven, CT
   </p>
 
   {{/* Display copyright license. */}}
