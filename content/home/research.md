@@ -50,7 +50,9 @@ subtitle = "### Studying the genetic and epigenetic determinants of sex differen
  css_class = ""
 +++
 
-Why do biological males have higher risk and worse outcomes for most non-reproductive cancers, such as melanoma? How do biological males and females differ in protective and susceptibility factors for melanoma? How does the sex chromosmome complement (XX versus XY) interact with sex hormones to establish sex differences? 
+Why do biological males have higher risk and worse outcomes for most non-reproductive cancers, such as melanoma? 
+How do biological males and females differ in protective and susceptibility factors for melanoma? 
+How does the sex chromosmome complement (XX versus XY) interact with sex hormones to establish sex differences? 
 
 We study the genetic, epigenetic and transcriptomic components that drive sex differences in mammals from early embryonic development and across the lifespan.
 
