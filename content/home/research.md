@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = "Our research"
-subtitle = "### Studying the genetic and epigenetic determinants of sex differences"
+subtitle = "### Studying the genetic and epigenetic determinants of sex differences in melanoma progression and outcomes"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
