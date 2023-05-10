@@ -23,7 +23,8 @@ bio: Head of the Engel Lab
 interests:
 - Sex differences
 - Gene regulation
-- Early development
+- Developmental biolog
+- Cancer
 
 education:
   courses:
@@ -67,4 +68,4 @@ Dr. Nora Engel is Associate Professor in the Lewis Katz School of Medicine at th
 
 As an independent investigator, Nora continued her studies on how imprinted regions are regulated and how the epigenetic and three-dimensional conformation is disturbed in imprinting disorders.
 
-Currently Nora’s major interest is in how sex differences are established in somatic tissues during embryogenesis, how the sex chromosomes contribute independently to those differences at the transcriptional and epigenetic levels and how these differences are reflected in sex disparities in disease risk and outcomes.
+Currently Nora’s major interest is in how sex differences are established in somatic tissues during embryogenesis, how the sex chromosomes contribute independently to those differences at the transcriptional and epigenetic levels and how these differences are reflected in sex disparities in cancer risk and outcomes, using melanoma as a paradigmatic non-reproductive cancer that is male-biased.
