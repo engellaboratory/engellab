@@ -51,7 +51,7 @@ subtitle = "### Studying the genetic and epigenetic determinants of sex differen
 +++
 
 - Why do males have higher risk and worse outcomes for most non-reproductive cancers, such as melanoma?
-- How do biological males and females differ in protective and susceptibility factors for melanoma? 
+- How do biological males and females differ in protective and susceptibility factors for melanoma?
 - How does the sex chromosome composition (XX and XY) contribute with sex hormones to direct the differing male and female trajectories?
 
 We study the genetic, epigenetic, and transcriptomic components that drive sexual dimorphism in mammals from early embryonic development and across the lifespan.
