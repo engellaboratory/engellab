@@ -50,7 +50,7 @@ subtitle = "### Studying the genetic and epigenetic determinants of sex differen
  css_class = ""
 +++
 
-- Why do males have higher risk and worse outcomes for most non-reproductive cancers, such as melanoma?
+- Why do males have higher risk and worse outcomes for most non-reproductive cancers, such as melanoma? 
 - How do biological males and females differ in protective and susceptibility factors for melanoma?
 - How does the sex chromosome composition (XX and XY) contribute with sex hormones to direct the differing male and female trajectories?
 
