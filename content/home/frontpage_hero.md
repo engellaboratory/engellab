@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "**Engel Laboratory**"
+title = "**Engel Lab**"
 subtitle = "_Developmental origins of sex differences in cancer progression and outcomes_"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.

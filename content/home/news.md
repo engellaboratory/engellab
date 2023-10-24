@@ -66,3 +66,18 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+Sex disparities in melanoma grant funded by the American Cancer Society (January 2024)
+
+“Comparative developmental genomics of sex-biased gene expression in early embryogenesis across mammals” published in Biology of Sex Differences doi: 10.1186/s13293-023-00520-z.
+
+{{< button url="https://pubmed.ncbi.nlm.nih.gov/37208698/#:~:text=Our%20results%20confirm%20that%20there,differ%20between%20the%20two%20species." text="Read more>}}
+
+Genetic sex biasing factors in melanoma progression grant funded by the Melanoma Research Alliance (April 2023) 
+
+Raza Naqvi presents a poster at the annual Cancer Epigenetics Institute’s symposium (March 2023)
+
+Sex biases in melanoma progression grant funded by Department of Defense Idea Award (July 2022)
+
+Engel lab hiring Post-doctoral fellow:
+Postdoctoral Position to investigate sex biases in melanoma susceptibility and progression, using cell lines and mouse models. The Coriell Institute for Medical Research harbors a strong research program that focuses on epigenetics, signaling and cancer. Applicants must have a Ph.D., a background in epigenetics, and proficiency in a range of cell/developmental biology, molecular, immunological, and genomic techniques, including experience in tissue culture, flow cytometry, DNA methylation analysis, and chromatin immunoprecipitation. Experience with mice is required. Excellent oral and written English language skills are essential. Basic bioinformatic skills are a plus. Candidate should be highly motivated, creative, with strong work ethic and ability to work independently as well as in collaborative research efforts. Applicants must have at least 1 first author publication from his/her PhD training. Please submit application electronically with curriculum vitae, a cover letter with statement of research interests and how you think you can contribute to the lab, and the names/phone numbers/emails of three people who can provide letters of reference to: Dr. Nora Engel, Ph.D. email: nengel@coriell.org 
