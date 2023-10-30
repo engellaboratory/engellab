@@ -62,11 +62,11 @@ Many human diseases show [sex biases in risk, onset and incidence](https://orwh.
 
 Sex differences are also evident in many complex human traits such as lifespan and aging, brain function, circadian rhythms, cardiovascular structure and function and immunological responses. The variety of systems exhibiting sexual dimorphisms implies that exploring these differences will afford valuable insights into disease risk and etiology and will lead to more sex-appropriate treatment options.  
 
-Our lab studies the impact of the sex chromosomes on the transcriptional and epigenetic differences between males and females in non-reproductive organs beginning from soon after fertilization, during embryonic development and in life after birth. Our goal is to fully understand the ways in which sex chromosome-linked genes contribute to sex differences across the lifespan, how their effects interact with hormonal effects, and how they affect the widespread sex biases in health and disease.
+Our lab studies the impact of the sex chromosomes on the transcriptional and epigenetic differences between males and females in melanoma progression and outcomes. We also investigate sex biases in the transcriptome and epigenome in melanocytes, the cell of origin of melanoma. Our goal is to fully understand the ways in which sex chromosome-linked genes and their downstream targets contribute to sex differences across the lifespan, how their effects interact with hormonal effects, and how they affect the widespread sex biases in health and disease, using melanoma as a quintessential example of sex disparities.
 
 ### How?  
 
-We integrate state-of-the-art genomic and epigenomic methods with developmental biology to study how sexual dimorphism is established at the molecular level. In particular, we study the dynamics of sex differences across development, using mouse embryonic stem cells and mouse models to distinguish the contribution of sex chromosomes and sex hormones to sex-specific phenotypes.   
+We integrate state-of-the-art genomic and epigenomic methods in models of melanoma progression to study how sexual dimorphism is established at the molecular level. In particular, we study the dynamics of sex differences across melanocyte development and in melanoma, using mouse models to distinguish the contribution of sex chromosomes and sex hormones to sex-specific phenotypes. 
 
 <figure> <img src="/media/img/four_core.png" class="research-icon-right" style="height:380px;">
 </figure>
@@ -77,11 +77,10 @@ We study embryogenesis beginning at stages before the gonads are developed, in w
 
 [**Click here**](https://www.kaltura.com/index.php/extwidget/preview/partner_id/1467031/uiconf_id/26365392/entry_id/0_le4wbym6/embed/auto?&flashvars%5bstreamerType%5d=auto) to watch a video about the Four Core Genotypes Model
 
-## Epigenetics of Imprinting Disorders
+## Dosage Effects of Transcription Factors
 
-Genomic imprinting is the mechanism by which a subset of genes is expressed exclusively from one of the two parental alleles. The allele that is repressed depends on whether it was inherited from the egg or from the sperm and is epigenetically marked by DNA methylation.
-Epigenetic dysregulation is a common occurrence in cancer development and can significantly affect the function of cis-regulatory elements, such as enhancers, insulators, and promoters. While DNA methylation has been extensively studied in the context of cancer, its interactions with other epigenetic features, such as three-dimensional (3D) chromatin conformation, remain an open question in the context of genomic imprinting.  
+<figure>
+ <img src="/media/img/EngelBlasto.png" class="research-icon-right" style="height:350px;">
+</figure>
 
-Beckwith-Wiedemann Syndrome (BWS) (OMIM 1306050), the most common fetal overgrowth disorder, increases the risk of pediatric cancers by ~25%. Patients are prone to a range of malignancies, which suggests that the alterations underlying the disease are basic drivers of carcinogenesis. More than 50% of affected individuals exhibit loss of DNA methylation (LOM) at the KCNQ1/CDKN1C imprinting control region (ICR), leading to aberrant silencing of CDKN1C, a gene encoding a cell cycle inhibitor. However, we still don’t understand how loss of methylation affects other chromatin features in the domain and how it contributes to tumor development.  
-
-We are elucidating how epigenetic features interact to establish the appropriate gene expression patterns in this complex imprinted domain. We also study how DNA methylation, chromatin modifications and chromosome conformation are disrupted in Beckwith-Wiedeman Syndrome, and how to epigenetically engineer the altered region to re-establish normal expression patterns to counteract the carcinogenic phenotype.  
+Transcription factors are overrepresented among haploinsufficient disorders, suggesting that dosage effects are important for many of them. We study whether sex differences in transcription and epigenetic factors affect their genome-wide distribution and whether their downstream targets are activated in a dosage-sensitive manner. Our lab generates male and female mouse embryonic stem cells. We have engineered tags for several sex-biased transcription factors with CRISPR/Cas technology to determine their genomic occupancy by ChIP-seq and the potential sex differences in their effects on target genes before and after differentiation into cardiac precursors.
