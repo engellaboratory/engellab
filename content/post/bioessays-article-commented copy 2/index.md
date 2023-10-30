@@ -1,5 +1,5 @@
 ---
-title: 'Grant'
+title: 'Grant funded by the American Cancer Society'
 subtitle: 'Comments on BioEssays article'
 summary: 'Comments in BioEssays and Advanced Science News'
 
