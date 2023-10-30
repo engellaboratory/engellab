@@ -67,8 +67,6 @@ subtitle = ""
  css_class = ""
 +++
 
-Sex disparities in melanoma grant funded by the American Cancer Society (January 2024)
-
 “Comparative developmental genomics of sex-biased gene expression in early embryogenesis across mammals” published in Biology of Sex Differences doi: 10.1186/s13293-023-00520-z.
 
 {{< button url="https://pubmed.ncbi.nlm.nih.gov/37208698/#:~:text=Our%20results%20confirm%20that%20there,differ%20between%20the%20two%20species." text="Read more">}}
