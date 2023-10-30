@@ -1,7 +1,7 @@
 ---
-title: 'Grant funded by the American Cancer Society'
-subtitle: 'Sex disparities in melanoma grant funded in January 2022'
-summary: 'The ACS has funded our research on sex disparities in melanoma'
+title: 'Grant funded by the Melanoma Research Alliance'
+subtitle: 'Genetic sex biasing factors in melanoma progression grant funded in January 2022'
+summary: 'The Melanoma Research Alliance has funded our reseach on genetic sex biasing factors in melanoma progression'
 
 authors:
 - admin
