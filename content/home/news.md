@@ -66,6 +66,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-Engel lab hiring Post-doctoral fellow:
-Postdoctoral Position to investigate sex biases in melanoma susceptibility and progression, using cell lines and mouse models. The Coriell Institute for Medical Research harbors a strong research program that focuses on epigenetics, signaling and cancer. Applicants must have a Ph.D., a background in epigenetics, and proficiency in a range of cell/developmental biology, molecular, immunological, and genomic techniques, including experience in tissue culture, flow cytometry, DNA methylation analysis, and chromatin immunoprecipitation. Experience with mice is required. Excellent oral and written English language skills are essential. Basic bioinformatic skills are a plus. Candidate should be highly motivated, creative, with strong work ethic and ability to work independently as well as in collaborative research efforts. Applicants must have at least 1 first author publication from his/her PhD training. Please submit application electronically with curriculum vitae, a cover letter with statement of research interests and how you think you can contribute to the lab, and the names/phone numbers/emails of three people who can provide letters of reference to: Dr. Nora Engel, Ph.D. email: nengel@coriell.org
