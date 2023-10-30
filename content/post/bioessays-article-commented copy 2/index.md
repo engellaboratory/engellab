@@ -1,7 +1,7 @@
 ---
-title: 'BioEssays article in the news'
-subtitle: 'Comments on BioEssays article'
-summary: 'Comments in BioEssays and Advanced Science News'
+title: 'Grant funded by the ACS'
+subtitle: 'Sex diparities in melanoma grant funded in January 2024'
+summary: 'The American Cancer Society (ACS) has funded our lab's research on sex disparities in melanoma in January 2024'
 
 authors:
 - admin
