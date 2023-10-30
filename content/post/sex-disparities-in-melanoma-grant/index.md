@@ -2,7 +2,6 @@
 title: 'Grant funded by the American Cancer Society'
 subtitle: 'Sex disparities grant funded starting January 2024'
 summary: 'The ACS has funded Engel lab's grant on sexual disparities in melanoma starting in January 2024'
-
 authors:
 - admin
 tags:
