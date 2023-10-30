@@ -1,7 +1,7 @@
 ---
 title: 'Grant funded by the American Cancer Society'
-subtitle: 'Sex disparities in melanoma grant funded in January 2023'
-summary: 'Comments in BioEssays and Advanced Science News'
+subtitle: 'Sex disparities in melanoma grant funded in January 2022'
+summary: 'The ACS has funded our reseach on sex disparities in melanoma'
 
 authors:
 - admin
