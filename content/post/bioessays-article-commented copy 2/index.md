@@ -1,6 +1,6 @@
 ---
 title: 'Grant funded by the American Cancer Society'
-subtitle: 'Comments on BioEssays article'
+subtitle: 'Sex disparities in melanoma grant funded in January 2023'
 summary: 'Comments in BioEssays and Advanced Science News'
 
 authors:
