@@ -3,8 +3,6 @@ title: 'Paper published in Biology of Sex Differences'
 subtitle: 'doi: 10.1186/s13293-023-00520-z.'
 summary: 'Our paper “Comparative developmental genomics of sex-biased gene expression in early embryogenesis across mammals” was published in Biology of Sex Differences'
 
-{{< button url="https://pubmed.ncbi.nlm.nih.gov/37208698/#:~:text=Our%20results%20confirm%20that%20there,differ%20between%20the%20two%20species." text="Read more">}}
-
 authors:
 - admin
 tags:
@@ -29,6 +27,9 @@ draft: false
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+{{< button url="https://pubmed.ncbi.nlm.nih.gov/37208698/#:~:text=Our%20results%20confirm%20that%20there,differ%20between%20the%20two%20species." text="Read more">}}
+
 ## When does the epigenome become "sexy"? Anna K. Naumova
 
 {{< button url="https://doi.org/10.1002/bies.201800120" text="Read more" >}}
