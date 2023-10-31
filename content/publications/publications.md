@@ -75,6 +75,27 @@ Romasko, Edward J.; Engel, Nora. ***G3 (Bethesda, Md.).*** 2016. PMID: [31552249
 
 
 
+## 2022  
+
+<br>  
+
+* **Comparative developmental genomics of sex-biased gene expression in early embryogenesis across mammals.**  
+Richardson, V; Engel, N; Kulathinal, R. ***bioRxiv.*** 2022. (https://doi.org/10.1101/2022.03.17.484606)
+
+<br>
+
+## 2021 
+
+<br>  
+
+* **The role of CTCF in the organization of the centromeric 11p15 imprinted domain interactome.**  
+Sobel Naveh, NS; Deegan, DF; Huhn, J; Traxler, E; Lan, Y; Wexberg, R; Ganguly, A; Engel, N; Kalish, JM. ***Nucleic Acids Research.*** 2021. PMID: [34107024](https://academic.oup.com/nar/article/49/11/6315/6295544)  
+
+* **Sexual dimorphism of the heart: genetics, epigenetics, and development.**  
+Deegan, DF.; Nigam, P; Engel, N. ***Frontiers in Cardiovascular Medicine.*** 2021. PMID: [34124200](https://www.frontiersin.org/articles/10.3389/fcvm.2021.668252/full)  
+
+<br>
+
 ## 2019  
 
 <br>  
@@ -91,7 +112,7 @@ Deegan, Daniel F.; Karbalaei, Reza; Madzo, Jozef; Kulathinal, Rob J.; Engel, Nor
 
 <br>  
 
-* **Sex Differences in Early Embryogenesis: Inter-Chromosomal Regulation Sets the Stage  for Sex-Biased Gene Networks: The dialogue between the sex chromosomes and autosomes  imposes sexual identity soon after fertilization.**  
+* **Sex Differences in Early Embryogenesis: Inter-Chromosomal Regulation Sets the Stage for Sex-Biased Gene Networks: The dialogue between the sex chromosomes and autosomes  imposes sexual identity soon after fertilization.**  
 Engel, Nora. ***BioEssays : news and reviews in molecular, cellular and developmental biology.*** 2018. PMID: [31552249](https://www.ncbi.nlm.nih.gov/pubmed/31552249)  
 
 <br>
@@ -112,7 +133,7 @@ Werner, Rachael J.; Schultz, Bryant M.; Huhn, Jacklyn M.; Jelinek, Jaroslav; Mad
 
 <br>  
 
-* **Male-Specific Transcription Factor Occupancy Alone Does Not Account for Differential  Methylation at Imprinted Genes in the mouse Germ Cell Lineage.**  
+* **Male-Specific Transcription Factor Occupancy Alone Does Not Account for Differential Methylation at Imprinted Genes in the mouse Germ Cell Lineage.**  
 Romasko, Edward J.; Engel, Nora. ***G3 (Bethesda, Md.).*** 2016. PMID: [31552249](https://www.ncbi.nlm.nih.gov/pubmed/31552249)  
 
 <br>
@@ -133,7 +154,7 @@ Engel, Nora. ***Proceedings of the National Academy of Sciences of the United St
 
 <br>  
 
-* **The Kcnq1ot1 long non-coding RNA affects chromatin conformation and expression of  Kcnq1, but does not regulate its imprinting in the developing heart.**  
+* **The Kcnq1ot1 long non-coding RNA affects chromatin conformation and expression of Kcnq1, but does not regulate its imprinting in the developing heart.**  
 Korostowski, Lisa; Sedlak, Natalie; Engel, Nora. ***PLoS genetics.*** 2012. PMID: [31552249](https://www.ncbi.nlm.nih.gov/pubmed/31552249)  
 
 * **The epigenetic lorax: gene-environment interactions in human health.**  
@@ -166,7 +187,7 @@ Engel, Nora; Tront, Jennifer S.; Erinle, Toyin; Nguyen, Nghi; Latham, Keith E.; 
 
 <br>  
 
-* **Three-dimensional conformation at the H19/Igf2 locus supports a model of enhancer  tracking.**  
+* **Three-dimensional conformation at the H19/Igf2 locus supports a model of enhancer tracking.**  
 Engel, Nora; Raval, Anjali K.; Thorvaldsen, Joanne L.; Bartolomei, S. Marisa. ***Human molecular genetics.*** 2008. PMID: [31552249](https://www.ncbi.nlm.nih.gov/pubmed/31552249)  
 
 <br>
@@ -175,7 +196,7 @@ Engel, Nora; Raval, Anjali K.; Thorvaldsen, Joanne L.; Bartolomei, S. Marisa. **
 
 <br>  
 
-* **CTCF binding sites promote transcription initiation and prevent DNA methylation on  the maternal allele at the imprinted H19/Igf2 locus.**  
+* **CTCF binding sites promote transcription initiation and prevent DNA methylation on the maternal allele at the imprinted H19/Igf2 locus.**  
 Engel, Nora; Thorvaldsen, Joanne L.; Bartolomei, Marisa S. ***Human molecular genetics.*** 2006. PMID: [31552249](https://www.ncbi.nlm.nih.gov/pubmed/31552249)  
 
 <br>
@@ -184,7 +205,7 @@ Engel, Nora; Thorvaldsen, Joanne L.; Bartolomei, Marisa S. ***Human molecular ge
 
 <br>  
 
-* **Antagonism between DNA hypermethylation and enhancer-blocking activity at the H19  DMD is uncovered by CpG mutations.**  
+* **Antagonism between DNA hypermethylation and enhancer-blocking activity at the H19 DMD is uncovered by CpG mutations.**  
 Engel, Nora; West, Adam G.; Felsenfeld, Gary; Bartolomei, Marisa S. ***Nature genetics.*** 2004. PMID: [31552249](https://www.ncbi.nlm.nih.gov/pubmed/31552249)  
 
 * **Genomic imprinting: antagonistic mechanisms in the germ line and early embryo.**  
