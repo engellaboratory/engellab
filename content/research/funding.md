@@ -51,13 +51,19 @@ subtitle = ""
 +++
 
 
-We are grateful to the following federal agencies and private foundations for their support: National Science Foundation, W.W.Smith Charitable Trust, National Cancer Institute.
+We are grateful to the following federal agencies and private foundations for their support: National Science Foundation, W.W. Smith Charitable Trust, National Cancer Institute, the Department of Defense, and the American Cancer Society.
 
-If you are interested in funding research that will help tailor basic and clinical studies to each gender, you can make a tax deductible donation to Temple University School of Medicine for the Laboratory of Nora Engel. Funding for science at the federal level is waning and research costs are rising. Your gift will help train young scientists and advance research in sex differences in health and disease.
+If you are interested in funding research that will help tailor basic and clinical studies to each gender, you can make a tax deductible donation to Corriell Institute for Medical Research for the Laboratory of Nora Engel. Funding for science at the federal level is waning and research costs are rising. Your gift will help train young scientists and advance research in sex differences in health and disease.
 
-<figure> <img src="/media/img/nsf_bitmap_logo.png" class="research-icon-left" style="height:200px;">
+<figure> <img src="/media/img/nsf_bitmap_logo.png" class="research-icon-left" style="height:150px;">
 </figure>
-<figure> <img src="/media/img/nci_case_logo_314056_284_5_v1.jpg" class="research-icon-right" style="height:200px;">
+<figure> <img src="/media/img/DoD.jpeg" class="research-icon-left" style="height:150px;">
+</figure>
+<figure> <img src="/media/img/MelanomaResearchAlliance.png" class="research-icon-left" style="height:150px;">
+</figure>
+<figure> <img src="/media/img/ACS.png" class="research-icon-left" style="height:150px;">
+</figure>
+<figure> <img src="/media/img/nci_case_logo_314056_284_5_v1.jpg" class="research-icon-right" style="height:150px;">
 </figure>
 <figure> <img src="/media/img/wwsmith_logo.jpg" class="research-icon-right" style="height:150px;">
 </figure>
