@@ -70,7 +70,7 @@ Engel, Nora. ***BioEssays : news and reviews in molecular, cellular and developm
 Werner, Rachael J.; Schultz, Bryant M.; Huhn, Jacklyn M.; Jelinek, Jaroslav; Madzo, Jozef; Engel, Nora. ***Biology of sex differences.*** 2017. PMID: [31552249](https://www.ncbi.nlm.nih.gov/pubmed/31552249)  
 
 * **Male-Specific Transcription Factor Occupancy Alone Does Not Account for Differential  Methylation at Imprinted Genes in the mouse Germ Cell Lineage.**  
-Romasko, Edward J.; Engel, Nora. ***G3 (Bethesda, Md.).*** 2016. PMID: [31552249](https://www.ncbi.nlm.nih.gov/pubmed/31552249)  TESTING
+Romasko, Edward J.; Engel, Nora. ***G3 (Bethesda, Md.).*** 2016. PMID: [31552249](https://www.ncbi.nlm.nih.gov/pubmed/31552249)
 
 
 
