@@ -1,7 +1,7 @@
 ---
 title: 'Engel Lab hiring Postdoctoral Fellow!'
-subtitle: 'Postdoctoral Position available to investigate expression and epigenetic differences between males and females throughout development'
-summary: 'Postdoctoral Position available to investigate exprerssion and epigenetic differences between males and females throughout embryonic development.'
+subtitle: 'Post-doctoral position available to investigate epigenetic and expression sex biases throughout melanocyte development and in melanoma.'
+summary: []
 authors:
 - admin
 tags:

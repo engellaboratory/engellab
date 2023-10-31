@@ -53,34 +53,12 @@ subtitle = ""
 #### Check out all of our publications on [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%28engel+N[au]+AND+Temple+University[affiliation]%29+OR+%28engel+N[au]+AND+University+of+Pennsylvania+School+of+Medicine[affiliation]%29)!
 <br>
 
-## Selected Publications  
-
-
-* **Sexual Dimorphism in the Age of Genomics: How, When, Where.**  
-Deegan, Daniel F.; Engel, Nora. ***Frontiers in cell and developmental biology.*** 2019. PMID: [31552249](https://www.ncbi.nlm.nih.gov/pubmed/31552249)  
-
-* **The developmental origins of sex-biased expression in cardiac development.**  
-Deegan, Daniel F.; Karbalaei, Reza; Madzo, Jozef; Kulathinal, Rob J.; Engel, Nora. ***Biology of sex differences.*** 2019. PMID: [31552249](https://www.ncbi.nlm.nih.gov/pubmed/31552249)  
-
-* **Sex Differences in Early Embryogenesis: Inter-Chromosomal Regulation Sets the Stage  for Sex-Biased Gene Networks: The dialogue between the sex chromosomes and autosomes  imposes sexual identity soon after fertilization.**  
-Engel, Nora. ***BioEssays : news and reviews in molecular, cellular and developmental biology.*** 2018. PMID: [31552249](https://www.ncbi.nlm.nih.gov/pubmed/31552249)  
-
-
-* **Sex chromosomes drive gene expression and regulatory dimorphisms in mouse embryonic  stem cells.**  
-Werner, Rachael J.; Schultz, Bryant M.; Huhn, Jacklyn M.; Jelinek, Jaroslav; Madzo, Jozef; Engel, Nora. ***Biology of sex differences.*** 2017. PMID: [31552249](https://www.ncbi.nlm.nih.gov/pubmed/31552249)  
-
-* **Male-Specific Transcription Factor Occupancy Alone Does Not Account for Differential  Methylation at Imprinted Genes in the mouse Germ Cell Lineage.**  
-Romasko, Edward J.; Engel, Nora. ***G3 (Bethesda, Md.).*** 2016. PMID: [31552249](https://www.ncbi.nlm.nih.gov/pubmed/31552249)
-
-
-
-
-## 2022  
+## 2023  
 
 <br>  
 
 * **Comparative developmental genomics of sex-biased gene expression in early embryogenesis across mammals.**  
-Richardson, V; Engel, N; Kulathinal, R. ***bioRxiv.*** 2022. (https://doi.org/10.1101/2022.03.17.484606)
+Richardson, V; Engel, N; Kulathinal, R. ***Biology of sex differences.*** 2022. PMID:[37208698](https://bsd.biomedcentral.com/articles/10.1186/s13293-023-00520-z)
 
 <br>
 
@@ -89,7 +67,7 @@ Richardson, V; Engel, N; Kulathinal, R. ***bioRxiv.*** 2022. (https://doi.org/10
 <br>  
 
 * **The role of CTCF in the organization of the centromeric 11p15 imprinted domain interactome.**  
-Sobel Naveh, NS; Deegan, DF; Huhn, J; Traxler, E; Lan, Y; Wexberg, R; Ganguly, A; Engel, N; Kalish, JM. ***Nucleic Acids Research.*** 2021. PMID: [34107024](https://academic.oup.com/nar/article/49/11/6315/6295544)  
+Sobel Naveh, NS; Deegan, DF; Huhn, J; Traxler, E; Lan, Y; Wexberg, R; Ganguly, A; Engel, N; Kalish, JM. ***Nucleic Acids Research.*** 2021. PMID:[34107024](https://academic.oup.com/nar/article/49/11/6315/6295544)  
 
 * **Sexual dimorphism of the heart: genetics, epigenetics, and development.**  
 Deegan, DF.; Nigam, P; Engel, N. ***Frontiers in Cardiovascular Medicine.*** 2021. PMID: [34124200](https://www.frontiersin.org/articles/10.3389/fcvm.2021.668252/full)  
