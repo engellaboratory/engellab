@@ -1,7 +1,7 @@
 ---
 title: 'Engel Lab hiring Postdoctoral Fellow!'
 subtitle: 'Post-doctoral position available to investigate epigenetic and expression sex biases throughout melanocyte development and in melanoma.'
-summary: []
+summary: 'Post-doctoral position available to investigate epigenetic and expression sex biases throughout melanocyte development and in melanoma.'
 authors:
 - admin
 tags:
