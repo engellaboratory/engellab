@@ -21,9 +21,9 @@ organizations:
 bio: []
 
 interests:
-- Sex differences
-- Gene regulation
-- Developmental biology
+- Science
+- Research
+- Biology
 
 education:
   courses:
