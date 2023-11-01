@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Professor, Medical Genetics and Molecular Biochemistry
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Temple University
+- name: Coriell Institute for Medical Research
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -23,7 +23,7 @@ bio: Head of the Engel Lab
 interests:
 - Sex differences
 - Gene regulation
-- Developmental biolog
+- Developmental biology
 - Cancer
 
 education:
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:noraengel@temple.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:nengel@coriell.org'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -64,7 +64,7 @@ user_groups:
 - Principal Investigator
 ---
 
-Dr. Nora Engel is Associate Professor in the Lewis Katz School of Medicine at the Fels Institute for Cancer Research and Dept. of Medical Genetics & Molecular Biology at Temple University in Philadelphia, PA. Nora received her Ph.D. in Molecular Genetics from the University of Buenos Aires School of Biochemistry. Her graduate work focused on transcriptional regulation in cancer. She then pursued a postdoctoral fellowship in the laboratory of Dr. Marisa Bartolomei at the University of Pennsylvania, where she investigated mechanisms of genomic imprinting during embryogenesis in mouse models.
+Dr. Nora Engel is Associate Professor at the [Coriell Institute for Medical Research](https://www.coriell.org/), which is a partner in the [Camden Cancer Research Center](https://www.coriell.org/ccrcnj/) in Camden, NJ. Nora received her Ph.D. in Molecular Genetics from the University of Buenos Aires School of Biochemistry. Her graduate work focused on transcriptional regulation in cancer. She then pursued a postdoctoral fellowship in the laboratory of Dr. Marisa Bartolomei at the University of Pennsylvania, where she investigated mechanisms of genomic imprinting during embryogenesis in mouse models. 
 
 As an independent investigator, Nora continued her studies on how imprinted regions are regulated and how the epigenetic and three-dimensional conformation is disturbed in imprinting disorders.
 
