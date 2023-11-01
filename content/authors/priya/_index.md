@@ -10,15 +10,15 @@ authors:
 superuser: False
 
 # Role/position
-role: Undergraduate Researcher
+role: Medical student 
 
 # Organizations/Affiliations
 organizations:
-- name: Temple University
+- name: Lewis Katz School of Medicine, Temple University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include lorem ipsum si dolor amet.
+bio: Emeritus member of the lab
 
 interests:
 - Science
@@ -56,4 +56,3 @@ user_groups:
 - Researchers
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.

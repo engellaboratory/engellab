@@ -10,11 +10,11 @@ authors:
 superuser: False
 
 # Role/position
-role: Masters Student
+role: Lab manager
 
 # Organizations/Affiliations
 organizations:
-- name: Temple University
+- name: Coriell Institute for Medical Research
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -54,5 +54,3 @@ email: ""
 user_groups:
 - Researchers
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
