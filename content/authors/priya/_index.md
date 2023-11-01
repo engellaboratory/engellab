@@ -18,12 +18,10 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Emeritus member of the lab
+bio: []
 
 interests:
-- Science
-- Research
-- Biology
+- Emeritus member of the lab
 
 education:
   courses:
