@@ -1,34 +1,36 @@
 ---
 # Display name
-title: Jennifer Kalish, MD.Ph.D.
+title: Kiera Patton
 
 # Username (this should match the folder name)
 authors:
-- jenn-kalish
+- kiera
 
 # Is this the primary user of the site?
 superuser: False
 
 # Role/position
-role: Assistant Professor, Children's Hospital of Philadelphia, Director of the Beckwith-Wiedemann Syndrome Program
+role: PhD candidate
 
 # Organizations/Affiliations
 organizations:
-- name: University of Pennsylvania
+- name: Lewis Katz School of Medicine, Temple University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: []
 
 interests:
-- Genomic Imprinting Diseases
-- Pediatric Cancer
+- Science
+- Research
+- Biology
 
 education:
   courses:
-  - course: MD., Ph.D.
-    institution: Yale University
-    year: 2007
+  - course:
+    institution:
+    year:
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -51,9 +53,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Collaborators
+- Researchers
 ---
 
-The Kalish Lab is focused on understanding the molecular and epigenetic mechanisms that contribute to the development, epigenetic mosaicism and increased predisposition to cancer that is characteristic of pediatric patients with rare imprinted gene disorders including Beckwith-Wiedemann syndrome (BWS) and Russell-Silver syndrome (RSS).
-
-[**Click here**](https://www.research.chop.edu/kalish-laboratory) to link to Jenn's website
