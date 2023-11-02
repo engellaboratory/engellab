@@ -50,7 +50,7 @@ subtitle = []
  css_class = "justify-content-center"
 +++
 
-- **Raza Naqvi.** Undergraduate student
+- **Raza Naqvi.** Undergraduate student <br>
   Current: Medical student
 - **Eshra Malhotra.** Undergraduate student
   Current: 
