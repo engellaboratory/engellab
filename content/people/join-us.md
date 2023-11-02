@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Opportunities"
-subtitle = "_Join our research effort at Temple University School of Medicine_"
+subtitle = "_Join our research effort at the world-renowned Coriell Institute for Medical Research_"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -51,8 +51,6 @@ subtitle = "_Join our research effort at Temple University School of Medicine_"
 +++
 
 {{< figure src="/media/img/fels_institute.png" width="650px" caption="**The Engel lab is situated in the Coriell Intitute for Medical Research in Camden, New Jersey.**">}}
-
-Join our research effort at the world-renowned Coriell Institute for Medical Research
 
 We are seeking postdocs who are excited about epigenetics, transcriptional regulation, and the dynamics of molecular sex differences throughout melanocyte development and during melanoma progression. [Click here](/post/postdoc-listing/) to learn more
 
