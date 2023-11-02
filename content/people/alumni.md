@@ -50,5 +50,15 @@ subtitle = []
  css_class = "justify-content-center"
 +++
 
-TEST
+- **Raza Naqvi.** Undergraduate student
+  Current: Medical student
+- **Eshra Malhotra.** Undergraduate student
+  Current: 
+- **Rachael Werner.** MD/PhD student
+  Current: MD/PhD student
+- **Bryant Schultz.** Lab manager
+  Current: 
+- **Gwendolyn Gallicio.** Undergraduate student/research technician
+  Current: Pharmacist
+
 
