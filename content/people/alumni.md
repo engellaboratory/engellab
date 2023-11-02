@@ -52,13 +52,18 @@ subtitle = []
 
 - **Raza Naqvi.** Undergraduate student <br>
   Current: Medical student
-- **Eshra Malhotra.** Undergraduate student
+- **Eshra Malhotra.** Undergraduate student <br>
   Current: 
-- **Rachael Werner.** MD/PhD student
+- **Rachael Werner.** MD/PhD student <br>
   Current: MD/PhD student
-- **Bryant Schultz.** Lab manager
+- **Bryant Schultz.** Lab manager <br>
   Current: 
-- **Gwendolyn Gallicio.** Undergraduate student/research technician
+- **Gwendolyn Gallicio.** Undergraduate student & research technician <br>
   Current: Pharmacist
+- **Jacklyn Huhn.** Undergraduate student, research technician & MD/PhD student <br>
+  Current: MD/PhD student
+- **Gaitree Boojraj.** Undergraduate student/research technician <br>
+  Current: Medical student
+- 
 
 
