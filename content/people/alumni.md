@@ -64,6 +64,15 @@ subtitle = []
   Current: MD/PhD student
 - **Gaitree Boojraj.** Undergraduate student/research technician <br>
   Current: Medical student
-- 
+- **Lisa Korotowski.** PhD student <br>
+  Current: Life technologies representative
+- **Natalie Sedlak.** Research technician <br>
+  Current: Physician assistant
+- **Gillian Breuer.** Undergraduate student <br>
+  Current: DO
+- **Brian Barnette.** Medical student <br>
+  Current: MD
+- **Burkley Snow.** Medical student <br>
+  Current: MD
 
 
