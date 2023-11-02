@@ -50,9 +50,9 @@ subtitle = "_Join our research effort at Temple University School of Medicine_"
  css_class = "justify-content-center"
 +++
 
-{{< figure src="/media/img/fels_institute.png" width="650px" caption="**The Engel lab is situated in the Fels Institute for Cancer Research at Temple University in the city of Philadelphia.**">}}
+{{< figure src="/media/img/fels_institute.png" width="650px" caption="**The Engel lab is situated in the Coriell Intitute for Medical Research in Camden, New Jersey.**">}}
 
-We are seeking postdocs who are excited about epigenetics, transcriptional regulation, and the dynamics of molecular sex differences throughout embryonic development. Some computational experience is required.  Please apply by sending a CV, cover letter, and information for three references. [Click here](/post/postdoc-listing/) to learn more
+Join our research effort at the world-renowned Coriell Institute for Medical Research
 
-Note to prospective students:
-Students interested in genetics, development and sex differences in health and disease and who are interested in combining computational and experimental approaches are strongly encouraged to rotate in the lab.  All graduate students must apply through [Temple University's PhD program](https://medicine.temple.edu/education/biomedical-sciences-graduate-program)
+We are seeking postdocs who are excited about epigenetics, transcriptional regulation, and the dynamics of molecular sex differences throughout melanocyte development and during melanoma progression. [Click here](/post/postdoc-listing/) to learn more
+
