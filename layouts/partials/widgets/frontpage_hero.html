@@ -32,7 +32,7 @@
     {{ with $st.Title }}<h1>{{ . | markdownify | emojify }}</h1>{{ end }}
     {{ with $st.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
     {{ $st.Content }}
-    <div class="row">
+    <div class="col">
       <div class="col" style="min-width:100px;">
         <img style="width:900px; height:150px;" src="/media/img/CorriellLogo.png"/> 
       </div> 
