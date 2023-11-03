@@ -50,7 +50,7 @@ subtitle = "_Join our research effort at the world-renowned Coriell Institute fo
  css_class = "justify-content-center"
 +++
 
-{{< figure src="/media/img/fels_institute.png" width="650px" caption="**The Engel lab is situated in the Coriell Intitute for Medical Research in Camden, New Jersey.**">}}
+{{< figure src="/media/img/Coriell Lab Plan.jpg" width="650px" caption="**The Engel lab is situated in the Coriell Intitute for Medical Research in Camden, New Jersey.**">}}
 
 We are seeking postdocs who are excited about epigenetics, transcriptional regulation, and the dynamics of molecular sex differences throughout melanocyte development and during melanoma progression. [Click here](/post/postdoc-listing/) to learn more
 
