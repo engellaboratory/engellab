@@ -55,48 +55,47 @@ width = "70vw"
   overlay_img = "img/people/BryantAidenRachaelGwenLina.jpeg"  # Image path relative to `static/media/`.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
+[[item]]
+  title = ""
+  content = ""
+  align = "center"  # Choose `center`, `left`, or `right`.
+  overlay_img = "img/people/Rachael_Graduation.jpeg"  # Image path relative to `static/media/`.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
 
-  [[item]]
-    title = ""
-    content = ""
-    align = "center"  # Choose `center`, `left`, or `right`.
-    overlay_img = "img/people/Rachael_Graduation.jpeg"  # Image path relative to `static/media/`.
-    overlay_filter = 0  # Darken the image. Value in range 0-1.
+[[item]]
+  title = ""
+  content = ""
+  align = "center"  # Choose `center`, `left`, or `right`.
+  overlay_img = "img/people/Lab People 3.jpeg"  # Image path relative to `static/media/`.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
 
-  [[item]]
-    title = ""
-    content = ""
-    align = "center"  # Choose `center`, `left`, or `right`.
-    overlay_img = "img/people/Lab People 3.jpeg"  # Image path relative to `static/media/`.
-    overlay_filter = 0  # Darken the image. Value in range 0-1.
+[[item]]
+  title = ""
+  content = ""
+  align = "center"  # Choose `center`, `left`, or `right`.
+  overlay_img = "img/people/Happy Hour 072821.jpg"  # Image path relative to `static/media/`.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
 
-  [[item]]
-    title = ""
-    content = ""
-    align = "center"  # Choose `center`, `left`, or `right`.
-    overlay_img = "img/people/Happy Hour 072821.jpg"  # Image path relative to `static/media/`.
-    overlay_filter = 0  # Darken the image. Value in range 0-1.
+[[item]]
+  title = ""
+  content = ""
+  align = "center"  # Choose `center`, `left`, or `right`.
+  overlay_img = "img/people/HH May 2023.jpg"  # Image path relative to `static/media/`.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
 
-  [[item]]
-    title = ""
-    content = ""
-    align = "center"  # Choose `center`, `left`, or `right`.
-    overlay_img = "img/people/HH May 2023.jpg"  # Image path relative to `static/media/`.
-    overlay_filter = 0  # Darken the image. Value in range 0-1.
+[[item]]
+  title = ""
+  content = ""
+  align = "center"  # Choose `center`, `left`, or `right`.
+  overlay_img = "img/people/HH May 2023 b.jpg"  # Image path relative to `static/media/`.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
 
-  [[item]]
-    title = ""
-    content = ""
-    align = "center"  # Choose `center`, `left`, or `right`.
-    overlay_img = "img/people/HH May 2023 b.jpg"  # Image path relative to `static/media/`.
-    overlay_filter = 0  # Darken the image. Value in range 0-1.
-
-  [[item]]
-    title = ""
-    content = ""
-    align = "center"  # Choose `center`, `left`, or `right`.
-    overlay_img = "img/people/Summer 2022.jpeg"  # Image path relative to `static/media/`.
-    overlay_filter = 0  # Darken the image. Value in range 0-1.
+[[item]]
+  title = ""
+  content = ""
+  align = "center"  # Choose `center`, `left`, or `right`.
+  overlay_img = "img/people/Summer 2022.jpeg"  # Image path relative to `static/media/`.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 [design]
 
