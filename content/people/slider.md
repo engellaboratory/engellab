@@ -66,7 +66,7 @@ width = "70vw"
   title = ""
   content = ""
   align = "center"  # Choose `center`, `left`, or `right`.
-  overlay_img = "img/people/Lab People 3.jpeg"  # Image path relative to `static/media/`.
+  overlay_img = "img/people/Lab People 3.JPG"  # Image path relative to `static/media/`.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 [[item]]
