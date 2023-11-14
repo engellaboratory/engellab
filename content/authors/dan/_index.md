@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: []
+bio:
 
 interests:
 - Professional Science Master's in Biotechnology, Temple University, 2021

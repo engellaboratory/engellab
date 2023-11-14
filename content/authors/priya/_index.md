@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: []
+bio:
 
 interests:
 - Bachelor of Science in Biology, 2021, Temple University

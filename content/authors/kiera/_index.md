@@ -18,10 +18,10 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: []
+bio:
 
 interests:
-- []
+-
 
 education:
   courses:
