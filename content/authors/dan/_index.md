@@ -21,13 +21,15 @@ organizations:
 bio:
 
 interests:
-- Professional Science Master's in Biotechnology, Temple University, 2021
+- Science
+- Research
+- Biology
 
-education:
+education: Professional Science Master's in Biotechnology
   courses:
   - course: 
-    institution: 
-    year: 
+    institution: Temple University
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
