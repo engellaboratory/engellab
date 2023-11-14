@@ -25,11 +25,11 @@ interests:
 - Research
 - Biology
 
-education:
+education: Bachelor of Science in Biology
   courses:
   - course:
     institution:
-    year:
+    year: 2021
 
 
 # Social/Academic Networking

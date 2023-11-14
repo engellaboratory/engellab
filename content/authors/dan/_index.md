@@ -25,11 +25,11 @@ interests:
 - Research
 - Biology
 
-education:
+education: Professional Science Master's in Biotechnology
   courses:
   - course: Bachelor of Science in Biology
     institution: Temple University
-    year: 2018
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

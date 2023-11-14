@@ -23,9 +23,9 @@ bio: []
 interests:
 - Emeritus member of the lab
 
-education:
+education: Bachelor of Science in Biology, 2021
   courses:
-  - course: Bachelor of Science in Neuroscience, Bachelor of Art in Computer Science
+  - course: 
     institution: Temple University
     year: 2021
 
