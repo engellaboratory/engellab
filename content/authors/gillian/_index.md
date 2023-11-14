@@ -21,15 +21,13 @@ organizations:
 bio: []
 
 interests:
-- Science
-- Research
-- Biology
+- Bachelor's of Science in Biology, Temple University, 2021
 
-education: Bachelor of Science in Biology
+education: 
   courses:
   - course:
     institution:
-    year: 2021
+    year:
 
 
 # Social/Academic Networking

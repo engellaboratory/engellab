@@ -21,13 +21,14 @@ organizations:
 bio: []
 
 interests:
+- Bachelor of Science in Biology, 2021, Temple University
 - Emeritus member of the lab
 
-education: Bachelor of Science in Biology, 2021
+education:
   courses:
-  - course: 
-    institution: Temple University
-    year: 2021
+  - course:
+    institution:
+    year:
 
 
 # Social/Academic Networking
