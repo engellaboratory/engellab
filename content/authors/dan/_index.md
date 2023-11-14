@@ -25,11 +25,14 @@ interests:
 - Research
 - Biology
 
-education: PSM in Biotechnology
+education: 
   courses:
-  - course: 
+  - course: Professional Science Master's in Biotechnology
     institution: Temple University
     year: 2021
+  - course: Bachelor's of Science
+    institution: Temple University
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
