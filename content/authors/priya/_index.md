@@ -10,7 +10,7 @@ authors:
 superuser: False
 
 # Role/position
-role: Medical student 
+role: Medical student, Emeritus member of the lab
 
 # Organizations/Affiliations
 organizations:
@@ -18,17 +18,18 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: []
 
 interests:
-- Bachelor of Science in Biology, 2021, Temple University
-- Emeritus member of the lab
+- Science
+- Research
+- Biology
 
 education:
   courses:
-  - course:
-    institution:
-    year:
+  - course: Bachelor's of Science in Biology
+    institution: Temple University
+    year: 2021
 
 
 # Social/Academic Networking

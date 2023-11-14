@@ -21,7 +21,9 @@ organizations:
 bio:
 
 interests:
--
+- Science
+- Research
+- Biology
 
 education:
   courses:
