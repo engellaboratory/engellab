@@ -25,7 +25,7 @@ interests:
 - Research
 - Biology
 
-education: Professional Science Master's in Biotechnology
+education: PSM in Biotechnology
   courses:
   - course: 
     institution: Temple University
