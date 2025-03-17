@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
 title = "**Engel Lab**"
-subtitle = "_Developmental origins of sex differences in cancer progressioNNN and outcomes_"
+subtitle = "_Developmental origins of sex differences in cancer progression and outcomes_"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 hero_media = "hero-academic.png"
