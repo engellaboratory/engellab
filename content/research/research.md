@@ -68,7 +68,7 @@ Our lab studies the impact of the sex chromosomes on the transcriptional and epi
 
 We integrate state-of-the-art genomic and epigenomic methods in models of melanoma progression to study how sexual dimorphism is established at the molecular level. In particular, we study the dynamics of sex differences across melanocyte development and in melanoma, using mouse models to distinguish the contribution of sex chromosomes and sex hormones to sex-specific phenotypes. 
 
-<figure> <img src="/media/img/Fig1A.png" class="research-icon-right" style="height:380px;">
+<figure> <img src="/media/img/Fig1A.png" class="research-icon-right" style="height:300px;">
 </figure>
 
 We are exploiting the Four Core Genotypes mouse model, developed by Dr. Arthur Arnold, to study the independent effects of sex chromosomes and sex hormones on embryonic development. In this model, mice are produced that differ in their sex chromosome complement, _while keeping sex steroid levels constant_. Mice that result from the breeding scheme are XX and XY gonadal females and XX and XY gonadal males, thus uncoupling the sex chromosome composition from the hormonal environment.  
