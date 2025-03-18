@@ -58,7 +58,7 @@ subtitle = ""
  <img src="/media/img/one_genome_two_sexes.png" class="research-icon-right" style="height:350px;">
 </figure>
 
-Many human diseases show [sex biases in risk, onset and incidence](https://orwh.od.nih.gov/sex-gender). Examples include autoimmune disorders, cancer susceptibility, infectious disease incidence, and cardiovascular disease presentation and risk. In some cases, sex is a much stronger predictor of risk of or protection from disease than DNA variants. In addition, treatment responses and side effects to drugs for many disorders differ between males and females.  
+Many human diseases show [sex biases in risk, onset and incidence](https://pubmed.ncbi.nlm.nih.gov/29943439/). Examples include autoimmune disorders, cancer susceptibility, infectious disease incidence, and cardiovascular disease presentation and risk. In some cases, sex is a much stronger predictor of risk of or protection from disease than DNA variants. In addition, treatment responses and side effects to drugs for many disorders differ between males and females.  
 
 Sex differences are also evident in many complex human traits such as lifespan and aging, brain function, circadian rhythms, cardiovascular structure and function and immunological responses. The variety of systems exhibiting sexual dimorphisms implies that exploring these differences will afford valuable insights into disease risk and etiology and will lead to more sex-appropriate treatment options.  
 
@@ -68,19 +68,17 @@ Our lab studies the impact of the sex chromosomes on the transcriptional and epi
 
 We integrate state-of-the-art genomic and epigenomic methods in models of melanoma progression to study how sexual dimorphism is established at the molecular level. In particular, we study the dynamics of sex differences across melanocyte development and in melanoma, using mouse models to distinguish the contribution of sex chromosomes and sex hormones to sex-specific phenotypes. 
 
-<figure> <img src="/media/img/four_core.png" class="research-icon-right" style="height:380px;">
+<figure> <img src="media/img/Fig1A.png" class="research-icon-right" style="height:380px;">
 </figure>
 
 We are exploiting the Four Core Genotypes mouse model, developed by Dr. Arthur Arnold, to study the independent effects of sex chromosomes and sex hormones on embryonic development. In this model, mice are produced that differ in their sex chromosome complement, _while keeping sex steroid levels constant_. Mice that result from the breeding scheme are XX and XY gonadal females and XX and XY gonadal males, thus uncoupling the sex chromosome composition from the hormonal environment.  
-
-We study embryogenesis beginning at stages before the gonads are developed, in which all sex differences can only be attributed to the sex chromosomes, and during subsequent development, when both sex hormones and sex chromosomes contribute to sexual dimorphism.  
 
 [**Click here**](https://www.kaltura.com/index.php/extwidget/preview/partner_id/1467031/uiconf_id/26365392/entry_id/0_le4wbym6/embed/auto?&flashvars%5bstreamerType%5d=auto) to watch a video about the Four Core Genotypes Model
 
 ## Dosage Effects of Transcription Factors
 
 <figure>
- <img src="/media/img/EngelBlasto.png" class="research-icon-right" style="height:350px;">
+ <img src="media/img/Fig1B.png" class="research-icon-right" style="height:350px;">
 </figure>
 
-Transcription factors are overrepresented among haploinsufficient disorders, suggesting that dosage effects are important for many of them. We study whether sex differences in transcription and epigenetic factors affect their genome-wide distribution and whether their downstream targets are activated in a dosage-sensitive manner. Our lab generates male and female mouse embryonic stem cells. We have engineered tags for several sex-biased transcription factors with CRISPR/Cas technology to determine their genomic occupancy by ChIP-seq and the potential sex differences in their effects on target genes before and after differentiation into cardiac precursors.
+Transcription factors are overrepresented among haploinsufficient disorders, suggesting that dosage effects are important for many of them. We study whether sex differences in transcription and epigenetic factors affect their genome-wide distribution and whether their downstream targets are activated in a dosage-sensitive manner. We have engineered tags for several sex-biased transcription factors with CRISPR/Cas technology to determine their genomic occupancy by ChIP-seq and the potential sex differences in their effects on target genes before and after differentiation into cardiac precursors.
