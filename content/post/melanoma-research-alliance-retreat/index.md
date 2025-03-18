@@ -1,6 +1,6 @@
 ---
 title: 'Poster Presentation at The Melanoma Research Alliance Retreat'
-subtitle: 'February 2024'
+subtitle: 'February 2025'
 summary: 'Dr. Nora Engel Presents “Sex Chromosomes Contribute to Sex Disparities in Melanoma Progression”'
 
 authors:
@@ -9,8 +9,8 @@ tags:
 - News
 categories:
 - Outreach
-date: "2024-03-06T00:00:00Z"
-lastmod: "2024-03-06T00:00:00Z"
+date: "2025-02-06T00:00:00Z"
+lastmod: "2025-02-06T00:00:00Z"
 featured: false
 draft: false
 
