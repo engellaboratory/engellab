@@ -1,16 +1,16 @@
 ---
-title: 'Gillian McGuire becomes PhD candidate'
-subtitle: 'April 2024'
-summary: 'Temple University LKSOM requires two phases of becoming a full PhD candidate through a preliminary examination. In April of 2024, Gillian McGuire passed the Independent Research Project and then in November 2024 successfully passed the preliminary examination through thesis defense to their committee and cluster leader. Now, Gillian has achieved full PhD candidacy.'
+title: 'Oral Presentation at The Allied Genetics Conference '
+subtitle: 'March 2024'
+summary: 'Dr. Nora Engel presents “The X and Y of sex disparities in cancer: sex chromosomes contribute to the male bias in melanoma progression.'
 
 authors:
 - admin
 tags:
 - News
 categories:
-- People
-date: "2024-04-06T00:00:00Z"
-lastmod: "2024-04-06T00:00:00Z"
+- Outreach
+date: "2024-03-06T00:00:00Z"
+lastmod: "2024-03-06T00:00:00Z"
 featured: false
 draft: false
 
