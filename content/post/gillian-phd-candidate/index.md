@@ -8,7 +8,7 @@ authors:
 tags:
 - News
 categories:
-- Papers
+- People
 date: "2024-04-06T00:00:00Z"
 lastmod: "2024-04-06T00:00:00Z"
 featured: false
