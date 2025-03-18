@@ -68,7 +68,7 @@ Our lab studies the impact of the sex chromosomes on the transcriptional and epi
 
 We integrate state-of-the-art genomic and epigenomic methods in models of melanoma progression to study how sexual dimorphism is established at the molecular level. In particular, we study the dynamics of sex differences across melanocyte development and in melanoma, using mouse models to distinguish the contribution of sex chromosomes and sex hormones to sex-specific phenotypes. 
 
-<figure> <img src="/media/img/Fig1A.png" class="research-icon-right" style="height:300px;">
+<figure> <img src="/media/img/Fig1AB.png" class="research-icon-right" style="height:500px;">
 </figure>
 
 We are exploiting the Four Core Genotypes mouse model, developed by Dr. Arthur Arnold, to study the independent effects of sex chromosomes and sex hormones on embryonic development. In this model, mice are produced that differ in their sex chromosome complement, _while keeping sex steroid levels constant_. Mice that result from the breeding scheme are XX and XY gonadal females and XX and XY gonadal males, thus uncoupling the sex chromosome composition from the hormonal environment.  
@@ -76,9 +76,5 @@ We are exploiting the Four Core Genotypes mouse model, developed by Dr. Arthur A
 [**Click here**](https://www.kaltura.com/index.php/extwidget/preview/partner_id/1467031/uiconf_id/26365392/entry_id/0_le4wbym6/embed/auto?&flashvars%5bstreamerType%5d=auto) to watch a video about the Four Core Genotypes Model
 
 ## Dosage Effects of Transcription Factors
-
-<figure>
- <img src="/media/img/Fig1B.png" class="research-icon-right" style="height:350px;">
-</figure>
 
 Transcription factors are overrepresented among haploinsufficient disorders, suggesting that dosage effects are important for many of them. We study whether sex differences in transcription and epigenetic factors affect their genome-wide distribution and whether their downstream targets are activated in a dosage-sensitive manner. We have engineered tags for several sex-biased transcription factors with CRISPR/Cas technology to determine their genomic occupancy by ChIP-seq and the potential sex differences in their effects on target genes before and after differentiation into cardiac precursors.
