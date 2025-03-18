@@ -1,16 +1,16 @@
 ---
-title: 'The Engel Lab moves from Temple University to the Coriell Institute for Medical Research'
-subtitle: 'September 2023'
-summary: 'The Engel Lab is excited to join the world renowned Coriell Institute for Medical Research where they will continue to investigate sex differences in melanoma.'
+title: 'Poster Presentation at Start Talking Science'
+subtitle: 'November 2023'
+summary: 'Gillian McGuire presents “Determining the Sex Differences in Melanoma”'
 
 authors:
 - admin
 tags:
 - News
 categories:
-- People
-date: "2023-09-06T00:00:00Z"
-lastmod: "2023-09-06T00:00:00Z"
+- Outreach
+date: "2023-11-06T00:00:00Z"
+lastmod: "2023-11-06T00:00:00Z"
 featured: false
 draft: false
 

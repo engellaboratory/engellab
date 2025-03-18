@@ -1,16 +1,16 @@
 ---
-title: 'The Engel Lab moves from Temple University to the Coriell Institute for Medical Research'
-subtitle: 'September 2023'
-summary: 'The Engel Lab is excited to join the world renowned Coriell Institute for Medical Research where they will continue to investigate sex differences in melanoma.'
+title: 'Poster Presentation at The Melanoma Research Alliance Retreat'
+subtitle: 'February 2024'
+summary: 'Dr. Nora Engel Presents “Sex Chromosomes Contribute to Sex Disparities in Melanoma Progression”'
 
 authors:
 - admin
 tags:
 - News
 categories:
-- People
-date: "2023-09-06T00:00:00Z"
-lastmod: "2023-09-06T00:00:00Z"
+- Outreach
+date: "2024-03-06T00:00:00Z"
+lastmod: "2024-03-06T00:00:00Z"
 featured: false
 draft: false
 

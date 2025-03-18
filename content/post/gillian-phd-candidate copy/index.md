@@ -1,7 +1,7 @@
 ---
-title: 'The Engel Lab moves from Temple University to the Coriell Institute for Medical Research'
-subtitle: 'September 2023'
-summary: 'The Engel Lab is excited to join the world renowned Coriell Institute for Medical Research where they will continue to investigate sex differences in melanoma.'
+title: 'Gillian McGuire is awarded the T32 training grant'
+subtitle: 'July 2023'
+summary: 'The Cancer Biology & Genetics Cluster of the Biomedical Sciences Graduate Program is funded with an NIH pre-doctoral T32 training grant. In July of 2023, Gillian was awarded this training grant which will allow them specialized training towards their future as a physician scientist.'
 
 authors:
 - admin
@@ -9,8 +9,8 @@ tags:
 - News
 categories:
 - People
-date: "2023-09-06T00:00:00Z"
-lastmod: "2023-09-06T00:00:00Z"
+date: "2023-07-06T00:00:00Z"
+lastmod: "2023-07-06T00:00:00Z"
 featured: false
 draft: false
 
