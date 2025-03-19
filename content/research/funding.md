@@ -65,5 +65,5 @@ If you are interested in funding research that will help tailor basic and clinic
 </figure>
 <figure> <img src="/media/img/nci_case_logo_314056_284_5_v1.jpg" class="research-icon-right" style="height:150px;">
 </figure>
-<figure> <img src="/media/img/camden_cancer.png" class="research-icon-right" style="height:150px;">
+<figure> <img src="/media/img/camden_cancer.png" class="research-icon-center" style="height:150px;">
 </figure>
