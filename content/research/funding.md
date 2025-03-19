@@ -56,19 +56,19 @@ We are grateful to the following federal agencies and private foundations for th
 If you are interested in funding research that will help tailor basic and clinical studies to each gender, you can make a tax deductible donation to Corriell Institute for Medical Research for the Laboratory of Nora Engel. Funding for science at the federal level is waning and research costs are rising. Your gift will help train young scientists and advance research in sex differences in health and disease.
 
 <div class="row">
-  <div class="column">
+  <div class="inline-block">
     <img src="/media/img/nsf_bitmap_logo.png" style="height:150px;">
   </div>
-  <div class="column">
+  <div class="inline-block">
     <img src="/media/img/DoD.jpeg" style="height:150px;">
   </div>
-  <div class="column">
+  <div class="inline-block">
     <figure> <img src="/media/img/MelanomaResearchAlliance.png" style="height:150px;">
   </div>
-  <div class="column">
+  <div class="inline-block">
     <figure> <img src="/media/img/ACS.png" style="height:150px;">
   </div>
-  <div class="column">
+  <div class="inline-block">
     <figure> <img src="/media/img/camden_cancer.png" style="height:150px;">
   </div>
 </div>
