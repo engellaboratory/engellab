@@ -63,5 +63,5 @@ If you are interested in funding research that will help tailor basic and clinic
 </figure>
 <figure> <img src="/media/img/ACS.png" class="research-icon-left" style="height:150px;">
 </figure>
-<figure> <img src="/media/img/camden_cancer.png" class="research-icon-center" style="height:150px;">
+<figure> <img src="/media/img/camden_cancer.png" class="research-icon-right" style="height:150px;">
 </figure>
