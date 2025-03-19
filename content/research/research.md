@@ -58,7 +58,7 @@ subtitle = ""
  <img src="/media/img/one_genome_two_sexes.png" class="research-icon-right" style="height:350px;">
 </figure>
 
-Many human diseases show [sex biases in risk, onset and incidence](https://pubmed.ncbi.nlm.nih.gov/29943439/). Examples include autoimmune disorders, cancer susceptibility, infectious disease incidence, and cardiovascular disease presentation and risk. In some cases, sex is a much stronger predictor of risk of or protection from disease than DNA variants. In addition, treatment responses and side effects to drugs for many disorders differ between males and females.  
+Many human diseases show [sex biases](https://pubmed.ncbi.nlm.nih.gov/31552249/) in [risk, onset and incidence](https://pubmed.ncbi.nlm.nih.gov/29943439/). Examples include autoimmune disorders, cancer susceptibility, infectious disease incidence, and cardiovascular disease presentation and risk. In some cases, sex is a much stronger predictor of risk of or protection from disease than DNA variants. In addition, treatment responses and side effects to drugs for many disorders differ between males and females.  
 
 Sex differences are also evident in many complex human traits such as lifespan and aging, brain function, circadian rhythms, cardiovascular structure and function and immunological responses. The variety of systems exhibiting sexual dimorphisms implies that exploring these differences will afford valuable insights into disease risk and etiology and will lead to more sex-appropriate treatment options.  
 
