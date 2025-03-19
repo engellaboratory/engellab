@@ -1,6 +1,6 @@
 ---
-title: 'Gillian McGuire becomes PhD candidate'
-subtitle: 'April 2024'
+title: 'Gillian McGuire becomes PhD candidate, April 2024'
+subtitle: ''
 summary: 'Temple University LKSOM requires two phases of becoming a full PhD candidate through a preliminary examination. In April of 2024, Gillian McGuire passed the Independent Research Project and then in November 2024 successfully passed the preliminary examination through thesis defense to their committee and cluster leader. Now, Gillian has achieved full PhD candidacy.'
 
 authors:

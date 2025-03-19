@@ -1,6 +1,6 @@
 ---
-title: 'The Engel Lab moves from Temple University to the Coriell Institute for Medical Research'
-subtitle: 'September 2023'
+title: 'The Engel Lab moves from Temple University to the Coriell Institute for Medical Research, September 2023'
+subtitle: ''
 summary: 'The Engel Lab is excited to join the world renowned Coriell Institute for Medical Research where they will continue to investigate sex differences in melanoma.'
 
 authors:

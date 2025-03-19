@@ -1,6 +1,6 @@
 ---
-title: 'Poster Presentation at Start Talking Science'
-subtitle: 'November 2023'
+title: 'Poster Presentation at Start Talking Science, November 2023'
+subtitle: ''
 summary: 'Gillian McGuire presents “Determining the Sex Differences in Melanoma”'
 
 authors:

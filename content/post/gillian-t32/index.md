@@ -1,6 +1,6 @@
 ---
-title: 'Gillian McGuire is awarded the T32 training grant'
-subtitle: 'July 2023'
+title: 'Gillian McGuire is awarded the T32 training grant, July 2023'
+subtitle: ''
 summary: 'The Cancer Biology & Genetics Cluster of the Biomedical Sciences Graduate Program is funded with an NIH pre-doctoral T32 training grant. In July of 2023, Gillian was awarded this training grant which will allow them specialized training towards their future as a physician scientist.'
 
 authors:
