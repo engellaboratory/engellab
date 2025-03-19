@@ -4,7 +4,7 @@ title: Abby Klimas
 
 # Username (this should match the folder name)
 authors:
-- abby
+- h_abby
 
 # Is this the primary user of the site?
 superuser: False
