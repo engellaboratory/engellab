@@ -10,7 +10,7 @@ authors:
 superuser: False
 
 # Role/position
-role: Undergraduate student
+role: Research Technician
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: "Kiera Patton has a Bachelors in Biology from Temple University and currently works as a lab technician in the Engel Lab. She is interested in Developmental Biology and plans to pursue a Phd in it. Outside of work she enjoys rock climbing and reading."
 
 interests:
 - Science
@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-  - course:
-    institution:
-    year:
+  - course: Bachelor's of Science
+    institution: Temple University
+    year: 2024
 
 
 # Social/Academic Networking
