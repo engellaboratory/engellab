@@ -15,7 +15,7 @@ role: Associate Professor, Cancer and Cellular Biology
 # Organizations/Affiliations
 organizations:
 - name: Fels Cancer Institute of Personalized Medicine
-  url: "https://medicine.temple.edu/directory/m-raza-zaidi-phd"
+  url: "medicine.temple.edu/directory/m-raza-zaidi-phd"
 
 # Short bio (displayed in user profile at end of posts)
 bio: The overarching goal of our research program is to elucidate the molecular mechanisms of ultraviolet radiation (UVR)-induced melanomagenesis.
