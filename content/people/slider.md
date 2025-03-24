@@ -23,10 +23,17 @@ width = "70vw"
   title = ""
   content = ""
   align = "center"  # Choose `center`, `left`, or `right`.
-  overlay_img = "img/people/DanPriya.jpeg"  # Image path relative to `static/media/`.
+  overlay_img = "img/tlap-2025.png"  # Image path relative to `static/media/`.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
   [[item]]
+    title = ""
+    content = ""
+    align = "center"  # Choose `center`, `left`, or `right`.
+    overlay_img = "img/people/DanPriya.jpeg"  # Image path relative to `static/media/`.
+    overlay_filter = 0  # Darken the image. Value in range 0-1.
+
+[[item]]
     title = ""
     content = ""
     align = "center"  # Choose `center`, `left`, or `right`.
