@@ -14,8 +14,8 @@ role: Professor of Biomedical Sciences, Cooper Medical School of Rowan Universit
 
 # Organizations/Affiliations
 organizations:
-- name: CU Anshutz
-  url: "https://www.thekrishnanlab.org/"
+- name: Cooper Medical School at Rowan University
+  url: "https://cmsru.rowan.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -34,5 +34,7 @@ education:
 user_groups:
 - Collaborators
 ---
+
+Dr. Bottaro's research interests focus on the role of the immune system in inflammation, autoimmunity and cancer, in both human disease and animal models. He has published extensively in these fields, and has served as ad hoc and standing member on numerous NIH Study Sections and other grant review panels. He is a member of the American Association of Immunologists, where he also serves on the Education Committee, of the Society for Leukocyte Biology and of the International Association of Medical Science Educators.
 
 [**Click here**](https://cmsru.rowan.edu/faculty-profiles/biomedical-sciences/faculty/bottaro-andrea.html) to link to Andrea's website

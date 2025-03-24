@@ -1,7 +1,7 @@
 ---
-title: 'Oral Presentation at The Allied Genetics Conference, March 2024'
+title: 'Poster presentation at the Melanoma Research Alliance Retreat, February 2024'
 subtitle: ''
-summary: 'Dr. Nora Engel presents “The X and Y of sex disparities in cancer: sex chromosomes contribute to the male bias in melanoma progression"'
+summary: 'Dr. Nora Engel Presents “Sex Chromosomes Contribute to Sex Disparities in Melanoma Progression”'
 
 authors:
 - admin
@@ -9,8 +9,8 @@ tags:
 - News
 categories:
 - Outreach
-date: "2024-03-06T00:00:00Z"
-lastmod: "2024-03-06T00:00:00Z"
+date: "2024-02-06T00:00:00Z"
+lastmod: "2024-02-06T00:00:00Z"
 featured: false
 draft: false
 
