@@ -82,7 +82,7 @@ Deegan, DF.; Nigam, P; Engel, N. ***Frontiers in Cardiovascular Medicine.*** 202
 Deegan, Daniel F.; Engel, Nora. ***Frontiers in cell and developmental biology.*** 2019. PMID: [31552249](https://www.ncbi.nlm.nih.gov/pubmed/31552249)  
 
 * **The developmental origins of sex-biased expression in cardiac development.**  
-Deegan, Daniel F.; Karbalaei, Reza; Madzo, Jozef; Kulathinal, Rob J.; Engel, Nora. ***Biology of sex differences.*** 2019. PMID: [31552249](https://www.ncbi.nlm.nih.gov/pubmed/31552249)  
+Deegan, Daniel F.; Karbalaei, Reza; Madzo, Jozef; Kulathinal, Rob J.; Engel, Nora. ***Biology of sex differences.*** 2019. PMID: [31488212](https://pubmed.ncbi.nlm.nih.gov/31488212/)  
 
 <br>
 
@@ -91,7 +91,7 @@ Deegan, Daniel F.; Karbalaei, Reza; Madzo, Jozef; Kulathinal, Rob J.; Engel, Nor
 <br>  
 
 * **Sex Differences in Early Embryogenesis: Inter-Chromosomal Regulation Sets the Stage for Sex-Biased Gene Networks: The dialogue between the sex chromosomes and autosomes  imposes sexual identity soon after fertilization.**  
-Engel, Nora. ***BioEssays : news and reviews in molecular, cellular and developmental biology.*** 2018. PMID: [31552249](https://www.ncbi.nlm.nih.gov/pubmed/31552249)  
+Engel, Nora. ***BioEssays : news and reviews in molecular, cellular and developmental biology.*** 2018. PMID: [29943439](https://pubmed.ncbi.nlm.nih.gov/29943439/)  
 
 <br>
 
@@ -100,10 +100,10 @@ Engel, Nora. ***BioEssays : news and reviews in molecular, cellular and developm
 <br>  
 
 * **A novel isoform of TET1 that lacks a CXXC domain is overexpressed in cancer.**  
-Good, Charly R.; Madzo, Jozef; Patel, Bela; Maegawa, Shinji; Engel, Nora; Jelinek, Jaroslav; Issa, Jean-Pierre J. ***Nucleic acids research.*** 2017. PMID: [31552249](https://www.ncbi.nlm.nih.gov/pubmed/31552249)  
+Good, Charly R.; Madzo, Jozef; Patel, Bela; Maegawa, Shinji; Engel, Nora; Jelinek, Jaroslav; Issa, Jean-Pierre J. ***Nucleic acids research.*** 2017. PMID: [28531272](https://pubmed.ncbi.nlm.nih.gov/28531272/)  
 
 * **Sex chromosomes drive gene expression and regulatory dimorphisms in mouse embryonic  stem cells.**  
-Werner, Rachael J.; Schultz, Bryant M.; Huhn, Jacklyn M.; Jelinek, Jaroslav; Madzo, Jozef; Engel, Nora. ***Biology of sex differences.*** 2017. PMID: [31552249](https://www.ncbi.nlm.nih.gov/pubmed/31552249)  
+Werner, Rachael J.; Schultz, Bryant M.; Huhn, Jacklyn M.; Jelinek, Jaroslav; Madzo, Jozef; Engel, Nora. ***Biology of sex differences.*** 2017. PMID: [28818098](https://pubmed.ncbi.nlm.nih.gov/28818098/)  
 
 <br>
 
@@ -112,7 +112,7 @@ Werner, Rachael J.; Schultz, Bryant M.; Huhn, Jacklyn M.; Jelinek, Jaroslav; Mad
 <br>  
 
 * **Male-Specific Transcription Factor Occupancy Alone Does Not Account for Differential Methylation at Imprinted Genes in the mouse Germ Cell Lineage.**  
-Romasko, Edward J.; Engel, Nora. ***G3 (Bethesda, Md.).*** 2016. PMID: [31552249](https://www.ncbi.nlm.nih.gov/pubmed/31552249)  
+Romasko, Edward J.; Engel, Nora. ***G3 (Bethesda, Md.).*** 2016. PMID: [27694116](https://pubmed.ncbi.nlm.nih.gov/27694116/)  
 
 <br>
 
@@ -121,10 +121,10 @@ Romasko, Edward J.; Engel, Nora. ***G3 (Bethesda, Md.).*** 2016. PMID: [31552249
 <br>  
 
 * **Enhancers compete with a long non-coding RNA for regulation of the Kcnq1 domain.**  
-Schultz, Bryant M.; Gallicio, Gwendolyn A.; Cesaroni, Matteo; Lupey, Lena N.; Engel, Nora. ***Nucleic acids research.*** 2015. PMID: [31552249](https://www.ncbi.nlm.nih.gov/pubmed/31552249)  
+Schultz, Bryant M.; Gallicio, Gwendolyn A.; Cesaroni, Matteo; Lupey, Lena N.; Engel, Nora. ***Nucleic acids research.*** 2015. PMID: [25539921](https://pubmed.ncbi.nlm.nih.gov/25539921/)  
 
 * **Imprinted X chromosome inactivation offers up a double dose of epigenetics.**  
-Engel, Nora. ***Proceedings of the National Academy of Sciences of the United States of America.*** 2015. PMID: [31552249](https://www.ncbi.nlm.nih.gov/pubmed/31552249)  
+Engel, Nora. ***Proceedings of the National Academy of Sciences of the United States of America.*** 2015. PMID: [1520097112](https://www.pnas.org/doi/10.1073/pnas.1520097112)  
 
 <br>
 
@@ -133,10 +133,10 @@ Engel, Nora. ***Proceedings of the National Academy of Sciences of the United St
 <br>  
 
 * **The Kcnq1ot1 long non-coding RNA affects chromatin conformation and expression of Kcnq1, but does not regulate its imprinting in the developing heart.**  
-Korostowski, Lisa; Sedlak, Natalie; Engel, Nora. ***PLoS genetics.*** 2012. PMID: [31552249](https://www.ncbi.nlm.nih.gov/pubmed/31552249)  
+Korostowski, Lisa; Sedlak, Natalie; Engel, Nora. ***PLoS genetics.*** 2012. PMID: [23028363](https://pubmed.ncbi.nlm.nih.gov/23028363/)  
 
 * **The epigenetic lorax: gene-environment interactions in human health.**  
-Latham, Keith E.; Sapienza, Carmen; Engel, Nora. ***Epigenomics.*** 2012. PMID: [31552249](https://www.ncbi.nlm.nih.gov/pubmed/31552249)  
+Latham, Keith E.; Sapienza, Carmen; Engel, Nora. ***Epigenomics.*** 2012. PMID: [22920179](https://pubmed.ncbi.nlm.nih.gov/22920179/)  
 
 <br>
 
@@ -145,10 +145,10 @@ Latham, Keith E.; Sapienza, Carmen; Engel, Nora. ***Epigenomics.*** 2012. PMID: 
 <br>  
 
 * **Novel cis-regulatory function in ICR-mediated imprinted repression of H19.**  
-Ideraabdullah, Folami Y.; Abramowitz, Lara K.; Thorvaldsen, Joanne L.; Krapp, Christopher; Wen, Sherry C.; Engel, Nora; Bartolomei, Marisa S. ***Developmental biology.*** 2011. PMID: [31552249](https://www.ncbi.nlm.nih.gov/pubmed/31552249)  
+Ideraabdullah, Folami Y.; Abramowitz, Lara K.; Thorvaldsen, Joanne L.; Krapp, Christopher; Wen, Sherry C.; Engel, Nora; Bartolomei, Marisa S. ***Developmental biology.*** 2011. PMID: [21600199](https://pubmed.ncbi.nlm.nih.gov/21600199/)  
 
 * **Enhancer-driven chromatin interactions during development promote escape from  silencing by a long non-coding RNA.**  
-Korostowski, Lisa; Raval, Anjali; Breuer, Gillian; Engel, Nora. ***Epigenetics & chromatin.*** 2011. PMID: [31552249](https://www.ncbi.nlm.nih.gov/pubmed/31552249)  
+Korostowski, Lisa; Raval, Anjali; Breuer, Gillian; Engel, Nora. ***Epigenetics & chromatin.*** 2011. PMID: [22085535](https://pubmed.ncbi.nlm.nih.gov/22085535/)  
 
 <br>
 
@@ -157,7 +157,7 @@ Korostowski, Lisa; Raval, Anjali; Breuer, Gillian; Engel, Nora. ***Epigenetics &
 <br>  
 
 * **Conserved DNA methylation in Gadd45a(-/-) mice.**  
-Engel, Nora; Tront, Jennifer S.; Erinle, Toyin; Nguyen, Nghi; Latham, Keith E.; Sapienza, Carmen; Hoffman, Barbara; Liebermann, Dan A. ***Epigenetics.*** 2009. PMID: [31552249](https://www.ncbi.nlm.nih.gov/pubmed/31552249)  
+Engel, Nora; Tront, Jennifer S.; Erinle, Toyin; Nguyen, Nghi; Latham, Keith E.; Sapienza, Carmen; Hoffman, Barbara; Liebermann, Dan A. ***Epigenetics.*** 2009. PMID: [19229137](https://pubmed.ncbi.nlm.nih.gov/19229137/)  
 
 <br>
 
@@ -166,7 +166,7 @@ Engel, Nora; Tront, Jennifer S.; Erinle, Toyin; Nguyen, Nghi; Latham, Keith E.; 
 <br>  
 
 * **Three-dimensional conformation at the H19/Igf2 locus supports a model of enhancer tracking.**  
-Engel, Nora; Raval, Anjali K.; Thorvaldsen, Joanne L.; Bartolomei, S. Marisa. ***Human molecular genetics.*** 2008. PMID: [31552249](https://www.ncbi.nlm.nih.gov/pubmed/31552249)  
+Engel, Nora; Raval, Anjali K.; Thorvaldsen, Joanne L.; Bartolomei, S. Marisa. ***Human molecular genetics.*** 2008. PMID: [18617529](https://pubmed.ncbi.nlm.nih.gov/18617529/)  
 
 <br>
 
@@ -175,7 +175,7 @@ Engel, Nora; Raval, Anjali K.; Thorvaldsen, Joanne L.; Bartolomei, S. Marisa. **
 <br>  
 
 * **CTCF binding sites promote transcription initiation and prevent DNA methylation on the maternal allele at the imprinted H19/Igf2 locus.**  
-Engel, Nora; Thorvaldsen, Joanne L.; Bartolomei, Marisa S. ***Human molecular genetics.*** 2006. PMID: [31552249](https://www.ncbi.nlm.nih.gov/pubmed/31552249)  
+Engel, Nora; Thorvaldsen, Joanne L.; Bartolomei, Marisa S. ***Human molecular genetics.*** 2006. PMID: [16928784](https://pubmed.ncbi.nlm.nih.gov/16928784/)  
 
 <br>
 
@@ -184,10 +184,10 @@ Engel, Nora; Thorvaldsen, Joanne L.; Bartolomei, Marisa S. ***Human molecular ge
 <br>  
 
 * **Antagonism between DNA hypermethylation and enhancer-blocking activity at the H19 DMD is uncovered by CpG mutations.**  
-Engel, Nora; West, Adam G.; Felsenfeld, Gary; Bartolomei, Marisa S. ***Nature genetics.*** 2004. PMID: [31552249](https://www.ncbi.nlm.nih.gov/pubmed/31552249)  
+Engel, Nora; West, Adam G.; Felsenfeld, Gary; Bartolomei, Marisa S. ***Nature genetics.*** 2004. PMID: [15273688](https://pubmed.ncbi.nlm.nih.gov/15273688/)  
 
 * **Genomic imprinting: antagonistic mechanisms in the germ line and early embryo.**  
-Fedoriw, A. M.; Engel, N. I.; Bartolomei, M. S. ***Cold Spring Harbor symposia on quantitative biology.*** 2004. PMID: [31552249](https://www.ncbi.nlm.nih.gov/pubmed/31552249)  
+Fedoriw, A. M.; Engel, N. I.; Bartolomei, M. S. ***Cold Spring Harbor symposia on quantitative biology.*** 2004. PMID: [16117631](https://pubmed.ncbi.nlm.nih.gov/16117631/)  
 
 <br>
 
@@ -196,4 +196,4 @@ Fedoriw, A. M.; Engel, N. I.; Bartolomei, M. S. ***Cold Spring Harbor symposia o
 <br>  
 
 * **Mechanisms of insulator function in gene regulation and genomic imprinting.**  
-Engel, Nora; Bartolomei, Marisa S. ***International review of cytology.*** 2003. PMID: [31552249](https://www.ncbi.nlm.nih.gov/pubmed/31552249)
+Engel, Nora; Bartolomei, Marisa S. ***International review of cytology.*** 2003. PMID: [14711117](https://pubmed.ncbi.nlm.nih.gov/14711117/)
