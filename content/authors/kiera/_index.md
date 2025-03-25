@@ -51,4 +51,4 @@ email: ""
 user_groups:
 - Researchers
 ---
-
+Kiera Patton has a Bachelors in Biology from Temple University and currently works as a lab technician in the Engel Lab. She is interested in Developmental Biology and plans to pursue a Phd in it. Outside of work she enjoys rock climbing and reading. 
