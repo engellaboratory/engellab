@@ -29,11 +29,3 @@ projects: []
 ---
 
 {{< button url="https://pubmed.ncbi.nlm.nih.gov/37208698/#:~:text=Our%20results%20confirm%20that%20there,differ%20between%20the%20two%20species." text="Read more">}}
-
-## When does the epigenome become "sexy"? Anna K. Naumova
-
-{{< button url="https://doi.org/10.1002/bies.201800120" text="Read more" >}}
-
-## Sex determination: when does it start and how might it work? Kerstin Brachhold
-
-{{< button url="https://www.advancedsciencenews.com/sex-determination-when-does-it-start-and-how-might-it-work/" text="Read more" >}}

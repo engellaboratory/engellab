@@ -27,10 +27,3 @@ draft: false
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-## When does the epigenome become "sexy"? Anna K. Naumova
-
-{{< button url="https://doi.org/10.1002/bies.201800120" text="Read more" >}}
-
-## Sex determination: when does it start and how might it work? Kerstin Brachhold
-
-{{< button url="https://www.advancedsciencenews.com/sex-determination-when-does-it-start-and-how-might-it-work/" text="Read more" >}}
